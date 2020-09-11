@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"<Unnamed>","c":"SelectQueryTerms","l":"destination"},{"p":"<Unnamed>","c":"SelectQueryTerms","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"SelectQueryTerms","l":"SelectQueryTerms()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"SelectQueryTerms","l":"selectTerms(String)","url":"selectTerms(java.lang.String)"}]
