@@ -1,0 +1,7 @@
+beautifulsoup4==4.8.2
+bs4==0.0.1
+joblib==0.14.1
+numpy==1.18.1
+scikit-learn==0.22.1
+scipy==1.4.1
+soupsieve==1.9.5

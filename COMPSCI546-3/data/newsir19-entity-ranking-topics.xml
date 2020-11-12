@@ -1,0 +1,4781 @@
+<top>
+<num> Number: 826 </num>
+<docid>96ab542e-6a07-11e6-ba32-5a4bf5aad4fa</docid>
+<url>https://www.washingtonpost.com/sports/nationals/the-minor-leagues-life-in-pro-baseballs-shadowy-corner/2016/08/26/96ab542e-6a07-11e6-ba32-5a4bf5aad4fa_story.html</url>
+<entities>
+  <entity>
+  <id> 826.1 </id>
+    <mention>Richmond</mention>
+    <link>enwiki:Richmond,%20Virginia</link>
+  </entity>
+  <entity>
+  <id> 826.2 </id>
+    <mention>Boston College</mention>
+    <link>enwiki:Boston%20College</link>
+  </entity>
+  <entity>
+  <id> 826.3 </id>
+    <mention>Connecticut</mention>
+    <link>enwiki:Connecticut</link>
+  </entity>
+  <entity>
+  <id> 826.4 </id>
+    <mention>Clayton Kershaw</mention>
+    <link>enwiki:Clayton%20Kershaw</link>
+  </entity>
+  <entity>
+  <id> 826.5 </id>
+    <mention>St. Louis</mention>
+    <link>enwiki:St.%20Louis</link>
+  </entity>
+  <entity>
+  <id> 826.6 </id>
+    <mention>St. Louis University</mention>
+    <link>enwiki:Saint%20Louis%20University</link>
+  </entity>
+  <entity>
+  <id> 826.7 </id>
+    <mention>Philadelphia Phillies</mention>
+    <link>enwiki:Philadelphia%20Phillies</link>
+  </entity>
+  <entity>
+  <id> 826.8 </id>
+    <mention>San Francisco Giants</mention>
+    <mention>Giants</mention>
+    <link>enwiki:San%20Francisco%20Giants</link>
+  </entity>
+  <entity>
+  <id> 826.9 </id>
+    <mention>California</mention>
+    <link>enwiki:California</link>
+  </entity>
+  <entity>
+  <id> 826.10 </id>
+    <mention>Sporting News</mention>
+    <link>enwiki:Sporting%20News</link>
+  </entity>
+  <entity>
+  <id> 826.11 </id>
+    <mention>Latin America</mention>
+    <link>enwiki:Latin%20America</link>
+  </entity>
+  <entity>
+  <id> 826.12 </id>
+    <mention>Dominican</mention>
+    <link>enwiki:Dominican%20Republic</link>
+  </entity>
+  <entity>
+  <id> 826.13 </id>
+    <mention>Waffle House</mention>
+    <link>enwiki:Waffle%20House</link>
+  </entity>
+  <entity>
+  <id> 826.14 </id>
+    <mention>Army</mention>
+    <link>enwiki:United%20States%20Army</link>
+  </entity>
+  <entity>
+  <id> 826.15 </id>
+    <mention>United States</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 826.16 </id>
+    <mention>Rob Manfred</mention>
+    <link>enwiki:Rob%20Manfred</link>
+  </entity>
+  <entity>
+  <id> 826.17 </id>
+    <mention>Venezuela</mention>
+    <mention>Venezuelan</mention>
+    <link>enwiki:Venezuela</link>
+  </entity>
+  <entity>
+  <id> 826.18 </id>
+    <mention>New York Yankees</mention>
+    <link>enwiki:New%20York%20Yankees</link>
+  </entity>
+  <entity>
+  <id> 826.19 </id>
+    <mention>Garrett Broshuis</mention>
+    <mention>Broshuis</mention>
+    <link>enwiki:Garrett%20Broshuis</link>
+  </entity>
+  <entity>
+  <id> 826.20 </id>
+    <mention>Norwich Navigators</mention>
+    <mention>Norwich</mention>
+    <link>enwiki:Connecticut%20Defenders</link>
+  </entity>
+  <entity>
+  <id> 826.21 </id>
+    <mention>Astros</mention>
+    <link>enwiki:Houston%20Astros</link>
+  </entity>
+  <entity>
+  <id> 826.22 </id>
+    <mention>Walmart</mention>
+    <link>enwiki:Walmart</link>
+  </entity>
+  <entity>
+  <id> 826.23 </id>
+    <mention>Los Angeles Dodgers</mention>
+    <link>enwiki:Los%20Angeles%20Dodgers</link>
+  </entity>
+  <entity>
+  <id> 826.24 </id>
+    <mention>Wilmer Difo</mention>
+    <mention>Difo</mention>
+    <link>enwiki:Wilmer%20Difo</link>
+  </entity>
+  <entity>
+  <id> 826.25 </id>
+    <mention>Missouri Bar Association</mention>
+    <link>enwiki:The%20Missouri%20Bar</link>
+  </entity>
+  <entity>
+  <id> 826.26 </id>
+    <mention>Bud Selig</mention>
+    <link>enwiki:Bud%20Selig</link>
+  </entity>
+  <entity>
+  <id> 826.27 </id>
+    <mention>Toronto Blue Jays</mention>
+    <link>enwiki:Toronto%20Blue%20Jays</link>
+  </entity>
+  <entity>
+  <id> 826.28 </id>
+    <mention>Major League Baseball</mention>
+    <mention>MLB</mention>
+    <link>enwiki:Major%20League%20Baseball</link>
+  </entity>
+  <entity>
+  <id> 826.29 </id>
+    <mention>Houston</mention>
+    <link>enwiki:Houston</link>
+  </entity>
+  <entity>
+  <id> 826.30 </id>
+    <mention>Hollywood</mention>
+    <link>enwiki:Hollywood</link>
+  </entity>
+  <entity>
+  <id> 826.31 </id>
+    <mention>Washington Nationals</mention>
+    <link>enwiki:Washington%20Nationals</link>
+  </entity>
+  <entity>
+  <id> 826.32 </id>
+    <mention>Augusta GreenJackets</mention>
+    <mention>Augusta</mention>
+    <link>enwiki:Augusta%20GreenJackets</link>
+  </entity>
+  <entity>
+  <id> 826.33 </id>
+    <mention>Missouri</mention>
+    <link>enwiki:Missouri</link>
+  </entity>
+  <entity>
+  <id> 826.34 </id>
+    <mention>Mississippi River</mention>
+    <link>enwiki:Mississippi%20River</link>
+  </entity>
+  <entity>
+  <id> 826.35 </id>
+    <mention>YouTube</mention>
+    <link>enwiki:YouTube</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 827 </num>
+<docid>679e8784-34df-11e7-b373-418f6849a004</docid>
+<url>https://www.washingtonpost.com/investigations/house-panel-probes-drug-distributors-and-dea-amid-national-opioid-crisis/2017/05/09/679e8784-34df-11e7-b373-418f6849a004_story.html</url>
+<entities>
+  <entity>
+  <id> 827.1 </id>
+    <mention>Gazette-Mail</mention>
+    <link>enwiki:Charleston%20Gazette-Mail</link>
+  </entity>
+  <entity>
+  <id> 827.2 </id>
+    <mention>Frank Pallone Jr.</mention>
+    <link>enwiki:Frank%20Pallone</link>
+  </entity>
+  <entity>
+  <id> 827.3 </id>
+    <mention>U.S.</mention>
+    <mention>United States</mention>
+    <mention>American</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 827.4 </id>
+    <mention>Chuck Rosenberg</mention>
+    <link>enwiki:Chuck%20Rosenberg</link>
+  </entity>
+  <entity>
+  <id> 827.5 </id>
+    <mention>Ameri-sourceBergen</mention>
+    <mention>AmerisourceBergen</mention>
+    <link>enwiki:AmerisourceBergen</link>
+  </entity>
+  <entity>
+  <id> 827.6 </id>
+    <mention>Mo.</mention>
+    <link>enwiki:Missouri</link>
+  </entity>
+  <entity>
+  <id> 827.7 </id>
+    <mention>Cardinal Health</mention>
+    <link>enwiki:Cardinal%20Health</link>
+  </entity>
+  <entity>
+  <id> 827.8 </id>
+    <mention>McKesson</mention>
+    <link>enwiki:McKesson%20Corporation</link>
+  </entity>
+  <entity>
+  <id> 827.9 </id>
+    <mention>West Virginia</mention>
+    <link>enwiki:West%20Virginia</link>
+  </entity>
+  <entity>
+  <id> 827.10 </id>
+    <mention>House Energy and Commerce Committee</mention>
+    <link>enwiki:United%20States%20House%20Committee%20on%20Energy%20and%20Commerce</link>
+  </entity>
+  <entity>
+  <id> 827.11 </id>
+    <mention>Claire McCaskill</mention>
+    <link>enwiki:Claire%20McCaskill</link>
+  </entity>
+  <entity>
+  <id> 827.12 </id>
+    <mention>Charleston</mention>
+    <link>enwiki:Charleston,%20West%20Virginia</link>
+  </entity>
+  <entity>
+  <id> 827.13 </id>
+    <mention>Senate Homeland Security and Governmental Affairs Committee</mention>
+    <link>enwiki:United%20States%20Senate%20Committee%20on%20Homeland%20Security%20and%20Governmental%20Affairs</link>
+  </entity>
+  <entity>
+  <id> 827.14 </id>
+    <mention>Greg Walden</mention>
+    <link>enwiki:Greg%20Walden</link>
+  </entity>
+  <entity>
+  <id> 827.15 </id>
+    <mention>Kermit</mention>
+    <link>enwiki:Kermit,%20West%20Virginia</link>
+  </entity>
+  <entity>
+  <id> 827.16 </id>
+    <mention>Drug Enforcement Administration</mention>
+    <mention>DEA</mention>
+    <link>enwiki:Drug%20Enforcement%20Administration</link>
+  </entity>
+  <entity>
+  <id> 827.17 </id>
+    <mention>Washington Post</mention>
+    <mention>Post</mention>
+    <link>enwiki:The%20Washington%20Post</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 828 </num>
+<docid>56989a9c-e30e-11e6-a547-5fb9411d332c</docid>
+<url>https://www.washingtonpost.com/national/health-science/if-you-want-to-lose-weight-dropping-that-meat-may-help/2017/03/03/56989a9c-e30e-11e6-a547-5fb9411d332c_story.html</url>
+<entities>
+  <entity>
+  <id> 828.1 </id>
+    <mention>New Zealand</mention>
+    <link>enwiki:New%20Zealand</link>
+  </entity>
+  <entity>
+  <id> 828.2 </id>
+    <mention>Johns Hopkins Bloomberg School of Public Health</mention>
+    <link>enwiki:Johns%20Hopkins%20Bloomberg%20School%20of%20Public%20Health</link>
+  </entity>
+  <entity>
+  <id> 828.3 </id>
+    <mention>North America</mention>
+    <link>enwiki:North%20America</link>
+  </entity>
+  <entity>
+  <id> 828.4 </id>
+    <mention>University of Otago</mention>
+    <link>enwiki:University%20of%20Otago</link>
+  </entity>
+  <entity>
+  <id> 828.5 </id>
+    <mention>University of South Carolina</mention>
+    <link>enwiki:University%20of%20South%20Carolina</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 829 </num>
+<docid>0d7f5e24cafc019265d3ee4b9745e7ea</docid>
+<url>https://www.washingtonpost.com/news/checkpoint/wp/2016/02/08/why-drone-swarms-will-buzz-to-the-forefront-in-the-new-pentagon-budget/</url>
+<entities>
+  <entity>
+  <id> 829.1 </id>
+    <mention>U.S.</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 829.2 </id>
+    <mention>Defense Department</mention>
+    <link>enwiki:United%20States%20Department%20of%20Defense</link>
+  </entity>
+  <entity>
+  <id> 829.3 </id>
+    <mention>Economic Club of Washington</mention>
+    <link>enwiki:The%20Economic%20Club%20of%20Washington,%20D.C.</link>
+  </entity>
+  <entity>
+  <id> 829.4 </id>
+    <mention>Ashton B. Carter</mention>
+    <mention>Carter</mention>
+    <link>enwiki:Ash%20Carter</link>
+  </entity>
+  <entity>
+  <id> 829.5 </id>
+    <mention>Office of Naval Research</mention>
+    <link>enwiki:Office%20of%20Naval%20Research</link>
+  </entity>
+  <entity>
+  <id> 829.6 </id>
+    <mention>NASA</mention>
+    <link>enwiki:NASA</link>
+  </entity>
+  <entity>
+  <id> 829.7 </id>
+    <mention>Pentagon</mention>
+    <link>enwiki:The%20Pentagon</link>
+  </entity>
+  <entity>
+  <id> 829.8 </id>
+    <mention>Navy</mention>
+    <link>enwiki:United%20States%20Navy</link>
+  </entity>
+  <entity>
+  <id> 829.9 </id>
+    <mention>Center for a New American Security</mention>
+    <link>enwiki:Center%20for%20a%20New%20American%20Security</link>
+  </entity>
+  <entity>
+  <id> 829.10 </id>
+    <mention>Defense Advanced Research Projects Agency</mention>
+    <mention>DARPA</mention>
+    <link>enwiki:DARPA</link>
+  </entity>
+  <entity>
+  <id> 829.11 </id>
+    <mention>Mars</mention>
+    <link>enwiki:Mars</link>
+  </entity>
+  <entity>
+  <id> 829.12 </id>
+    <mention>Alaska</mention>
+    <link>enwiki:Alaska</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 830 </num>
+<docid>02475047d615c46a006924f0e2317cca</docid>
+<url>https://www.washingtonpost.com/news/morning-mix/wp/2017/02/22/scientists-discover-new-frog-species-small-enough-to-sit-on-a-fingernail/</url>
+<entities>
+  <entity>
+  <id> 830.1 </id>
+    <mention>S.D. Biju</mention>
+    <link>enwiki:Sathyabhama%20Das%20Biju</link>
+  </entity>
+  <entity>
+  <id> 830.2 </id>
+    <mention>Western Ghats</mention>
+    <link>enwiki:Western%20Ghats</link>
+  </entity>
+  <entity>
+  <id> 830.3 </id>
+    <mention>University of Delhi</mention>
+    <link>enwiki:University%20of%20Delhi</link>
+  </entity>
+  <entity>
+  <id> 830.4 </id>
+    <mention>Atlantic Forest</mention>
+    <link>enwiki:Atlantic%20Forest</link>
+  </entity>
+  <entity>
+  <id> 830.5 </id>
+    <mention>Kerala</mention>
+    <link>enwiki:Kerala</link>
+  </entity>
+  <entity>
+  <id> 830.6 </id>
+    <mention>India</mention>
+    <mention>Indian</mention>
+    <link>enwiki:India</link>
+  </entity>
+  <entity>
+  <id> 830.7 </id>
+    <mention>Brazil</mention>
+    <link>enwiki:Brazil</link>
+  </entity>
+  <entity>
+  <id> 830.8 </id>
+    <mention>Tamil Nadu</mention>
+    <link>enwiki:Tamil%20Nadu</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 831 </num>
+<docid>320596f4102c94fca3f0432a8611f87d</docid>
+<url>https://www.washingtonpost.com/news/grade-point/wp/2017/05/06/trump-questions-whether-key-funding-source-for-historically-black-colleges-is-constitutional/</url>
+<entities>
+  <entity>
+  <id> 831.1 </id>
+    <mention>Congress</mention>
+    <link>enwiki:United%20States%20Congress</link>
+  </entity>
+  <entity>
+  <id> 831.2 </id>
+    <mention>University of Pennsylvania</mention>
+    <link>enwiki:University%20of%20Pennsylvania</link>
+  </entity>
+  <entity>
+  <id> 831.3 </id>
+    <mention>Thurgood Marshall College Fund</mention>
+    <mention>TMCF</mention>
+    <link>enwiki:Thurgood%20Marshall%20College%20Fund</link>
+  </entity>
+  <entity>
+  <id> 831.4 </id>
+    <mention>Betsy DeVos</mention>
+    <mention>DeVos</mention>
+    <link>enwiki:Betsy%20DeVos</link>
+  </entity>
+  <entity>
+  <id> 831.5 </id>
+    <mention>Bluefield State College</mention>
+    <link>enwiki:Bluefield%20State%20College</link>
+  </entity>
+  <entity>
+  <id> 831.6 </id>
+    <mention>Howard University</mention>
+    <link>enwiki:Howard%20University</link>
+  </entity>
+  <entity>
+  <id> 831.7 </id>
+    <mention>Trump</mention>
+    <link>enwiki:Donald%20Trump</link>
+  </entity>
+  <entity>
+  <id> 831.8 </id>
+    <mention>Pence</mention>
+    <link>enwiki:Mike%20Pence</link>
+  </entity>
+  <entity>
+  <id> 831.9 </id>
+    <mention>West Virginia</mention>
+    <link>enwiki:West%20Virginia</link>
+  </entity>
+  <entity>
+  <id> 831.10 </id>
+    <mention>Johnson C. Smith University</mention>
+    <link>enwiki:Johnson%20C.%20Smith%20University</link>
+  </entity>
+  <entity>
+  <id> 831.11 </id>
+    <mention>John Conyers Jr.</mention>
+    <link>enwiki:John%20Conyers</link>
+  </entity>
+  <entity>
+  <id> 831.12 </id>
+    <mention>Post</mention>
+    <link>enwiki:he%20Washington%20Post</link>
+  </entity>
+  <entity>
+  <id> 831.13 </id>
+    <mention>The Washington Post</mention>
+    <link>enwiki:The%20Washington%20Post</link>
+  </entity>
+  <entity>
+  <id> 831.14 </id>
+    <mention>Cedric L. Richmond</mention>
+    <link>enwiki:Cedric%20Richmond</link>
+  </entity>
+  <entity>
+  <id> 831.15 </id>
+    <mention>HBCU</mention>
+    <link>enwiki:Historically%20black%20colleges%20and%20universities</link>
+  </entity>
+  <entity>
+  <id> 831.16 </id>
+    <mention>Bethune-Cookman University</mention>
+    <link>enwiki:Bethune–Cookman%20University</link>
+  </entity>
+  <entity>
+  <id> 831.17 </id>
+    <mention>Johnny C. Taylor</mention>
+    <mention>Taylor</mention>
+    <link>enwiki:Johnny%20C.%20Taylor,%20Jr.</link>
+  </entity>
+  <entity>
+  <id> 831.18 </id>
+    <mention>United Negro College Fund</mention>
+    <mention>UNCF</mention>
+    <link>enwiki:UNCF</link>
+  </entity>
+  <entity>
+  <id> 831.19 </id>
+    <mention>Office of Management and Budget</mention>
+    <link>enwiki:Office%20of%20Management%20and%20Budget</link>
+  </entity>
+  <entity>
+  <id> 831.20 </id>
+    <mention>West Virginia State University</mention>
+    <link>enwiki:West%20Virginia%20State%20University</link>
+  </entity>
+  <entity>
+  <id> 831.21 </id>
+    <mention>White House</mention>
+    <link>enwiki:White%20House</link>
+  </entity>
+  <entity>
+  <id> 831.22 </id>
+    <mention>Judiciary Committee</mention>
+    <link>enwiki:United%20States%20House%20Committee%20on%20the%20Judiciary</link>
+  </entity>
+  <entity>
+  <id> 831.23 </id>
+    <mention>Oval Office</mention>
+    <link>enwiki:Oval%20Office</link>
+  </entity>
+  <entity>
+  <id> 831.24 </id>
+    <mention>Mich.</mention>
+    <link>enwiki:Michigan</link>
+  </entity>
+  <entity>
+  <id> 831.25 </id>
+    <mention>District</mention>
+    <mention>Washington</mention>
+    <link>enwiki:Washington,%20D.C.</link>
+  </entity>
+  <entity>
+  <id> 831.26 </id>
+    <mention>Education Department</mention>
+    <mention>U.S. Department of Education</mention>
+    <link>enwiki:United%20States%20Department%20of%20Education</link>
+  </entity>
+  <entity>
+  <id> 831.27 </id>
+    <mention>U.S.</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 831.28 </id>
+    <mention>Marybeth Gasman</mention>
+    <link>enwiki:Marybeth%20Gasman</link>
+  </entity>
+  <entity>
+  <id> 831.29 </id>
+    <mention>Congressional Black Caucus</mention>
+    <link>enwiki:Congressional%20Black%20Caucus</link>
+  </entity>
+  <entity>
+  <id> 831.30 </id>
+    <mention>Lincoln University of Missouri</mention>
+    <link>enwiki:Lincoln%20University%20(Missouri)</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 832 </num>
+<docid>b407cd8074559045a926eff226aae173</docid>
+<url>https://www.washingtonpost.com/news/morning-mix/wp/2016/04/22/its-horrific-the-apparent-murder-suicide-of-a-right-to-die-advocate-and-his-ailing-wife/</url>
+<entities>
+  <entity>
+  <id> 832.1 </id>
+    <mention>The Washington Post</mention>
+    <mention>Post</mention>
+    <link>enwiki:The%20Washington%20Post</link>
+  </entity>
+  <entity>
+  <id> 832.2 </id>
+    <mention>New England Journal of Medicine</mention>
+    <link>enwiki:The%20New%20England%20Journal%20of%20Medicine</link>
+  </entity>
+  <entity>
+  <id> 832.3 </id>
+    <mention>Final Exit Network</mention>
+    <link>enwiki:Final%20Exit%20Network</link>
+  </entity>
+  <entity>
+  <id> 832.4 </id>
+    <mention>Brittany Maynard</mention>
+    <link>enwiki:Brittany%20Maynard</link>
+  </entity>
+  <entity>
+  <id> 832.5 </id>
+    <mention>George Washington University School of Medicine</mention>
+    <link>enwiki:George%20Washington%20University%20School%20of%20Medicine%20%26%20Health%20Sciences</link>
+  </entity>
+  <entity>
+  <id> 832.6 </id>
+    <mention>WZVN</mention>
+    <link>enwiki:WZVN-TV</link>
+  </entity>
+  <entity>
+  <id> 832.7 </id>
+    <mention>Oregon</mention>
+    <link>enwiki:Oregon</link>
+  </entity>
+  <entity>
+  <id> 832.8 </id>
+    <mention>Pew Research</mention>
+    <link>enwiki:Pew%20Research%20Center</link>
+  </entity>
+  <entity>
+  <id> 832.9 </id>
+    <mention>California</mention>
+    <link>enwiki:California</link>
+  </entity>
+  <entity>
+  <id> 832.10 </id>
+    <mention>American Medical Association</mention>
+    <link>enwiki:American%20Medical%20Association</link>
+  </entity>
+  <entity>
+  <id> 832.11 </id>
+    <mention>ABC</mention>
+    <link>enwiki:American%20Broadcasting%20Company</link>
+  </entity>
+  <entity>
+  <id> 832.12 </id>
+    <mention>Facebook</mention>
+    <link>enwiki:Facebook</link>
+  </entity>
+  <entity>
+  <id> 832.13 </id>
+    <mention>United States</mention>
+    <mention>U.S.</mention>
+    <mention>Americans</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 832.14 </id>
+    <mention>Punta Gorda</mention>
+    <link>enwiki:Punta%20Gorda,%20Florida</link>
+  </entity>
+  <entity>
+  <id> 832.15 </id>
+    <mention>Florida</mention>
+    <mention>Fla.</mention>
+    <link>enwiki:Florida</link>
+  </entity>
+  <entity>
+  <id> 832.16 </id>
+    <mention>Charlotte County</mention>
+    <link>enwiki:Charlotte%20County,%20Florida</link>
+  </entity>
+  <entity>
+  <id> 832.17 </id>
+    <mention>Jerry Brown</mention>
+    <link>enwiki:Jerry%20Brown</link>
+  </entity>
+  <entity>
+  <id> 832.18 </id>
+    <mention>Gallup</mention>
+    <link>enwiki:Gallup%20(company)</link>
+  </entity>
+  <entity>
+  <id> 832.19 </id>
+    <mention>Port Charlotte</mention>
+    <link>enwiki:Port%20Charlotte,%20Florida</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 833 </num>
+<docid>0e43fce6-12a9-11e5-89f3-61410da94eb1</docid>
+<url>https://www.washingtonpost.com/lifestyle/travel/traveling-to-south-korea-dont-panic-over-mers-just-take-precautions/2015/06/18/0e43fce6-12a9-11e5-89f3-61410da94eb1_story.html</url>
+<entities>
+  <entity>
+  <id> 833.1 </id>
+    <mention>Saudi Arabia</mention>
+    <link>enwiki:Saudi%20Arabia</link>
+  </entity>
+  <entity>
+  <id> 833.2 </id>
+    <mention>Centers for Disease Control and Prevention</mention>
+    <mention>CDC</mention>
+    <link>enwiki:Centers%20for%20Disease%20Control%20and%20Prevention</link>
+  </entity>
+  <entity>
+  <id> 833.3 </id>
+    <mention>Florence Comite</mention>
+    <link>enwiki:Florence%20Comite</link>
+  </entity>
+  <entity>
+  <id> 833.4 </id>
+    <mention>World Health Organization</mention>
+    <mention>WHO</mention>
+    <link>enwiki:World%20Health%20Organization</link>
+  </entity>
+  <entity>
+  <id> 833.5 </id>
+    <mention>Middle East</mention>
+    <link>enwiki:Middle%20East</link>
+  </entity>
+  <entity>
+  <id> 833.6 </id>
+    <mention>Americans</mention>
+    <mention>U.S.</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 833.7 </id>
+    <mention>New York</mention>
+    <link>enwiki:New%20York%20(state)</link>
+  </entity>
+  <entity>
+  <id> 833.8 </id>
+    <mention>Seoul</mention>
+    <link>enwiki:Seoul</link>
+  </entity>
+  <entity>
+  <id> 833.9 </id>
+    <mention>South Korean</mention>
+    <mention>South Korea</mention>
+    <mention>Korea</mention>
+    <link>enwiki:South%20Korea</link>
+  </entity>
+  <entity>
+  <id> 833.10 </id>
+    <mention>Chapman University</mention>
+    <link>enwiki:Chapman%20University</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 834 </num>
+<docid>99d80076323444d17769330a2fc20e93</docid>
+<url>https://www.washingtonpost.com/news/posteverything/wp/2017/06/27/seattles-higher-minimum-wage-is-actually-working-just-fine/</url>
+<entities>
+  <entity>
+  <id> 834.1 </id>
+    <mention>University of California at Berkeley</mention>
+    <mention>Berkeley</mention>
+    <link>enwiki:University%20of%20California,%20Berkeley</link>
+  </entity>
+  <entity>
+  <id> 834.2 </id>
+    <mention>University of Washington</mention>
+    <link>enwiki:University%20of%20Washington</link>
+  </entity>
+  <entity>
+  <id> 834.3 </id>
+    <mention>Washington</mention>
+    <link>enwiki:Washington%20(state)</link>
+  </entity>
+  <entity>
+  <id> 834.4 </id>
+    <mention>John Schmitt</mention>
+    <link>enwiki:John%20Schmitt%20(economist)</link>
+  </entity>
+  <entity>
+  <id> 834.5 </id>
+    <mention>McDonald</mention>
+    <link>enwiki:McDonald%27s</link>
+  </entity>
+  <entity>
+  <id> 834.6 </id>
+    <mention>Seattle</mention>
+    <link>enwiki:Seattle</link>
+  </entity>
+  <entity>
+  <id> 834.7 </id>
+    <mention>Kshama Sawant</mention>
+    <link>enwiki:Kshama%20Sawant</link>
+  </entity>
+  <entity>
+  <id> 834.8 </id>
+    <mention>United States</mention>
+    <mention>American</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 834.9 </id>
+    <mention>Bureau of Labor Statistics</mention>
+    <link>enwiki:Bureau%20of%20Labor%20Statistics</link>
+  </entity>
+  <entity>
+  <id> 834.10 </id>
+    <mention>Seattle City Council</mention>
+    <link>enwiki:Seattle%20City%20Council</link>
+  </entity>
+  <entity>
+  <id> 834.11 </id>
+    <mention>Michael Reich</mention>
+    <link>enwiki:Michael%20Reich</link>
+  </entity>
+  <entity>
+  <id> 834.12 </id>
+    <mention>Starbucks</mention>
+    <link>enwiki:Starbucks</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 835 </num>
+<docid>c0c4e2d0-628f-11e7-a4f7-af34fc1d9d39</docid>
+<url>https://www.washingtonpost.com/local/social-issues/a-healthy-mystery-over-attending-houses-of-worship/2017/07/07/c0c4e2d0-628f-11e7-a4f7-af34fc1d9d39_story.html</url>
+<entities>
+  <entity>
+  <id> 835.1 </id>
+    <mention>Neal Krause</mention>
+    <mention>Krause</mention>
+    <link>enwiki:Neal%20Krause</link>
+  </entity>
+  <entity>
+  <id> 835.2 </id>
+    <mention>Columbia University Medical Center</mention>
+    <link>enwiki:Columbia%20University%20Medical%20Center</link>
+  </entity>
+  <entity>
+  <id> 835.3 </id>
+    <mention>Vanderbilt University</mention>
+    <link>enwiki:Vanderbilt%20University</link>
+  </entity>
+  <entity>
+  <id> 835.4 </id>
+    <mention>Georgetown University</mention>
+    <link>enwiki:Georgetown%20University</link>
+  </entity>
+  <entity>
+  <id> 835.5 </id>
+    <mention>University of Michigan</mention>
+    <link>enwiki:University%20of%20Michigan</link>
+  </entity>
+  <entity>
+  <id> 835.6 </id>
+    <mention>Daniel Sulmasy</mention>
+    <mention>Sulmasy</mention>
+    <link>enwiki:Daniel%20Sulmasy</link>
+  </entity>
+  <entity>
+  <id> 835.7 </id>
+    <mention>Centers for Disease Control and Prevention</mention>
+    <link>enwiki:Centers%20for%20Disease%20Control%20and%20Prevention</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 836 </num>
+<docid>50326f32f7308f71691fafbdc25e1dc3</docid>
+<url>https://www.washingtonpost.com/news/energy-environment/wp/2016/08/26/how-amphetamine-use-may-be-affecting-our-waterways/</url>
+<entities>
+  <entity>
+  <id> 836.1 </id>
+    <mention>Environmental Science & Technology</mention>
+    <link>enwiki:Environmental%20Science%20%26%20Technology</link>
+  </entity>
+  <entity>
+  <id> 836.2 </id>
+    <mention>Cary Institute of Ecosystem Studies</mention>
+    <link>enwiki:Cary%20Institute%20of%20Ecosystem%20Studies</link>
+  </entity>
+  <entity>
+  <id> 836.3 </id>
+    <mention>Baltimore</mention>
+    <link>enwiki:Baltimore</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 837 </num>
+<docid>664638e8-6dc3-11e6-9705-23e51a2f424d</docid>
+<url>https://www.washingtonpost.com/world/suicide-bomber-kills-45-in-attack-on-pro-government-militia-in-southern-yemen/2016/08/29/664638e8-6dc3-11e6-9705-23e51a2f424d_story.html</url>
+<entities>
+  <entity>
+  <id> 837.1 </id>
+    <mention>Somali</mention>
+    <link>enwiki:Somalia</link>
+  </entity>
+  <entity>
+  <id> 837.2 </id>
+    <mention>United Nations</mention>
+    <mention>U.N.</mention>
+    <link>enwiki:United%20Nations</link>
+  </entity>
+  <entity>
+  <id> 837.3 </id>
+    <mention>Amaq news agency</mention>
+    <link>enwiki:Amaq%20News%20Agency</link>
+  </entity>
+  <entity>
+  <id> 837.4 </id>
+    <mention>Yemen</mention>
+    <mention>Yemeni</mention>
+    <link>enwiki:Yemen</link>
+  </entity>
+  <entity>
+  <id> 837.5 </id>
+    <mention>Islamic State</mention>
+    <link>enwiki:Islamic%20state</link>
+  </entity>
+  <entity>
+  <id> 837.6 </id>
+    <mention>Aden</mention>
+    <link>enwiki:Aden</link>
+  </entity>
+  <entity>
+  <id> 837.7 </id>
+    <mention>Arab</mention>
+    <link>enwiki:Arab%20world</link>
+  </entity>
+  <entity>
+  <id> 837.8 </id>
+    <mention>Zeid Ra'ad al-Hussein</mention>
+    <link>enwiki:Zeid%20Raad%20Al%20Hussein</link>
+  </entity>
+  <entity>
+  <id> 837.9 </id>
+    <mention>Iran</mention>
+    <link>enwiki:Iran</link>
+  </entity>
+  <entity>
+  <id> 837.10 </id>
+    <mention>Reuters</mention>
+    <link>enwiki:Reuters</link>
+  </entity>
+  <entity>
+  <id> 837.11 </id>
+    <mention>Associated Press</mention>
+    <link>enwiki:Associated%20Press</link>
+  </entity>
+  <entity>
+  <id> 837.12 </id>
+    <mention>Abed Rabbo Mansour Hadi</mention>
+    <link>enwiki:Abdrabbuh%20Mansur%20Hadi</link>
+  </entity>
+  <entity>
+  <id> 837.13 </id>
+    <mention>Saudi Arabia</mention>
+    <link>enwiki:Saudi%20Arabia</link>
+  </entity>
+  <entity>
+  <id> 837.14 </id>
+    <mention>SANAA</mention>
+    <link>enwiki:Sanaʽa</link>
+  </entity>
+  <entity>
+  <id> 837.15 </id>
+    <mention>Kuwait</mention>
+    <link>enwiki:Kuwait</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 838 </num>
+<docid>8a6a9e3c-fff3-11e5-8bb1-f124a43f84dc</docid>
+<url>https://www.washingtonpost.com/world/asia_pacific/fishing-fleet-puts-china-on-collision-course-with-neighbors-in-south-china-sea/2016/04/12/8a6a9e3c-fff3-11e5-8bb1-f124a43f84dc_story.html</url>
+<entities>
+  <entity>
+  <id> 838.1 </id>
+    <mention>Asian</mention>
+    <mention>Asia</mention>
+    <link>enwiki:Asia</link>
+  </entity>
+  <entity>
+  <id> 838.2 </id>
+    <mention>Foreign Ministry</mention>
+    <link>enwiki:Ministry%20of%20Foreign%20Affairs%20of%20the%20People%27s%20Republic%20of%20China</link>
+  </entity>
+  <entity>
+  <id> 838.3 </id>
+    <mention>Brunei</mention>
+    <link>enwiki:Brunei</link>
+  </entity>
+  <entity>
+  <id> 838.4 </id>
+    <mention>Indonesia</mention>
+    <mention>Indonesian</mention>
+    <mention>Indonesians</mention>
+    <link>enwiki:Indonesia</link>
+  </entity>
+  <entity>
+  <id> 838.5 </id>
+    <mention>Nanyang Technological University</mention>
+    <link>enwiki:Nanyang%20Technological%20University</link>
+  </entity>
+  <entity>
+  <id> 838.6 </id>
+    <mention>Pacific</mention>
+    <link>enwiki:Pacific%20Ocean</link>
+  </entity>
+  <entity>
+  <id> 838.7 </id>
+    <mention>S. Rajaratnam School of International Studies</mention>
+    <link>enwiki:S.%20Rajaratnam%20School%20of%20International%20Studies</link>
+  </entity>
+  <entity>
+  <id> 838.8 </id>
+    <mention>University of New South Wales</mention>
+    <link>enwiki:University%20of%20New%20South%20Wales</link>
+  </entity>
+  <entity>
+  <id> 838.9 </id>
+    <mention>Hainan</mention>
+    <link>enwiki:Hainan</link>
+  </entity>
+  <entity>
+  <id> 838.10 </id>
+    <mention>Alan Dupont</mention>
+    <mention>Dupont</mention>
+    <link>enwiki:Alan%20Dupont</link>
+  </entity>
+  <entity>
+  <id> 838.11 </id>
+    <mention>Singapore</mention>
+    <link>enwiki:Singapore</link>
+  </entity>
+  <entity>
+  <id> 838.12 </id>
+    <mention>Xi Jinping</mention>
+    <link>enwiki:Xi%20Jinping</link>
+  </entity>
+  <entity>
+  <id> 838.13 </id>
+    <mention>Scarborough Shoal</mention>
+    <link>enwiki:Scarborough%20Shoal</link>
+  </entity>
+  <entity>
+  <id> 838.14 </id>
+    <mention>Ukraine</mention>
+    <link>enwiki:Ukraine</link>
+  </entity>
+  <entity>
+  <id> 838.15 </id>
+    <mention>China</mention>
+    <mention>Chinese</mention>
+    <link>enwiki:China</link>
+  </entity>
+  <entity>
+  <id> 838.16 </id>
+    <mention>South China Sea</mention>
+    <link>enwiki:South%20China%20Sea</link>
+  </entity>
+  <entity>
+  <id> 838.17 </id>
+    <mention>Natuna Islands</mention>
+    <mention>Natunas</mention>
+    <link>enwiki:Natuna%20Regency</link>
+  </entity>
+  <entity>
+  <id> 838.18 </id>
+    <mention>Spratlys</mention>
+    <link>enwiki:Spratlys</link>
+  </entity>
+  <entity>
+  <id> 838.19 </id>
+    <mention>Asia-Pacific</mention>
+    <link>enwiki:Asia-Pacific</link>
+  </entity>
+  <entity>
+  <id> 838.20 </id>
+    <mention>Subi Reef</mention>
+    <link>enwiki:Subi%20Reef</link>
+  </entity>
+  <entity>
+  <id> 838.21 </id>
+    <mention>U.S. Navy</mention>
+    <link>enwiki:United%20States%20Navy</link>
+  </entity>
+  <entity>
+  <id> 838.22 </id>
+    <mention>Obama</mention>
+    <link>enwiki:Barack%20Obama</link>
+  </entity>
+  <entity>
+  <id> 838.23 </id>
+    <mention>U.S.</mention>
+    <mention>United States</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 838.24 </id>
+    <mention>Malaysia</mention>
+    <mention>Malaysian</mention>
+    <link>enwiki:Malaysia</link>
+  </entity>
+  <entity>
+  <id> 838.25 </id>
+    <mention>Defense News</mention>
+    <link>enwiki:Defense%20News</link>
+  </entity>
+  <entity>
+  <id> 838.26 </id>
+    <mention>Crimea</mention>
+    <link>enwiki:Crimea</link>
+  </entity>
+  <entity>
+  <id> 838.27 </id>
+    <mention>Mao Zedong</mention>
+    <link>enwiki:Mao%20Zedong</link>
+  </entity>
+  <entity>
+  <id> 838.28 </id>
+    <mention>Beijing</mention>
+    <link>enwiki:Beijing</link>
+  </entity>
+  <entity>
+  <id> 838.29 </id>
+    <mention>Chinese coast guard</mention>
+    <link>enwiki:China%20Coast%20Guard</link>
+  </entity>
+  <entity>
+  <id> 838.30 </id>
+    <mention>Sydney</mention>
+    <link>enwiki:Sydney</link>
+  </entity>
+  <entity>
+  <id> 838.31 </id>
+    <mention>Stratfor</mention>
+    <link>enwiki:Stratfor</link>
+  </entity>
+  <entity>
+  <id> 838.32 </id>
+    <mention>Borneo</mention>
+    <link>enwiki:Borneo</link>
+  </entity>
+  <entity>
+  <id> 838.33 </id>
+    <mention>Vietnam</mention>
+    <mention>Vietnamese</mention>
+    <link>enwiki:Vietnam</link>
+  </entity>
+  <entity>
+  <id> 838.34 </id>
+    <mention>Spratly Islands</mention>
+    <link>enwiki:Spratly%20Islands</link>
+  </entity>
+  <entity>
+  <id> 838.35 </id>
+    <mention>Philippines</mention>
+    <link>enwiki:Philippines</link>
+  </entity>
+  <entity>
+  <id> 838.36 </id>
+    <mention>Defense</mention>
+    <link>enwiki:United%20States%20Department%20of%20Defense</link>
+  </entity>
+  <entity>
+  <id> 838.37 </id>
+    <mention>Food and Agriculture Organization</mention>
+    <link>enwiki:Food%20and%20Agriculture%20Organization</link>
+  </entity>
+  <entity>
+  <id> 838.38 </id>
+    <mention>U.S. Navy War College</mention>
+    <link>enwiki:Naval%20War%20College</link>
+  </entity>
+  <entity>
+  <id> 838.39 </id>
+    <mention>Russia</mention>
+    <link>enwiki:Russia</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 839 </num>
+<docid>5331852c50a9cb4b0ff655ecf4a7b6a6</docid>
+<url>https://www.washingtonpost.com/posteverything/wp/2017/04/12/websites-where-children-are-prostituted-are-immune-from-prosecution-but-why/</url>
+<entities>
+  <entity>
+  <id> 839.1 </id>
+    <mention>FCC</mention>
+    <link>enwiki:Federal%20Communications%20Commission</link>
+  </entity>
+  <entity>
+  <id> 839.2 </id>
+    <mention>Senate Subcommittee on Investigations for the Committee on Homeland Security</mention>
+    <link>enwiki:United%20States%20Senate%20Homeland%20Security%20Permanent%20Subcommittee%20on%20Investigations</link>
+  </entity>
+  <entity>
+  <id> 839.3 </id>
+    <mention>Olympic Committee</mention>
+    <link>enwiki:United%20States%20Olympic%20%26%20Paralympic%20Committee</link>
+  </entity>
+  <entity>
+  <id> 839.4 </id>
+    <mention>American</mention>
+    <mention>America</mention>
+    <mention>Washington</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 839.5 </id>
+    <mention>Craigslist</mention>
+    <link>enwiki:Craigslist</link>
+  </entity>
+  <entity>
+  <id> 839.6 </id>
+    <mention>Senate Judiciary Committee</mention>
+    <link>enwiki:United%20States%20Senate%20Committee%20on%20the%20Judiciary</link>
+  </entity>
+  <entity>
+  <id> 839.7 </id>
+    <mention>Chuck Grassley</mention>
+    <link>enwiki:Chuck%20Grassley</link>
+  </entity>
+  <entity>
+  <id> 839.8 </id>
+    <mention>Capitol Hill</mention>
+    <mention>Congress</mention>
+    <link>enwiki:United%20States%20Congress</link>
+  </entity>
+  <entity>
+  <id> 839.9 </id>
+    <mention>National Center for Missing and Exploited Children</mention>
+    <link>enwiki:National%20Center%20for%20Missing%20and%20Exploited%20Children</link>
+  </entity>
+  <entity>
+  <id> 839.10 </id>
+    <mention>Backpage.com</mention>
+    <link>enwiki:Backpage</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 840 </num>
+<docid>55060482bf60235610936dd9cd2e54b4</docid>
+<url>https://www.washingtonpost.com/news/where-we-live/wp/2016/03/14/aging-in-place-options-most-popular-with-baby-boomers/</url>
+<entities>
+  <entity>
+  <id> 840.1 </id>
+    <mention>HomeAdvisor</mention>
+    <link>enwiki:HomeAdvisor</link>
+  </entity>
+  <entity>
+  <id> 840.2 </id>
+    <mention>Americans</mention>
+    <mention>United States</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 840.3 </id>
+    <mention>U.S. Census Bureau</mention>
+    <link>enwiki:United%20States%20Census%20Bureau</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 841 </num>
+<docid>2dc6b4a1a5ec8579292e35163982cdb6</docid>
+<url>https://www.washingtonpost.com/news/wonk/wp/2016/06/22/feds-charge-900-million-in-fake-medical-bills-kickbacks-and-other-health-care-fraud/</url>
+<entities>
+  <entity>
+  <id> 841.1 </id>
+    <mention>Medicare Fraud Strike Force</mention>
+    <link>enwiki:Medicare%20Fraud%20Strike%20Force</link>
+  </entity>
+  <entity>
+  <id> 841.2 </id>
+    <mention>Justice Department</mention>
+    <link>enwiki:United%20States%20Department%20of%20Justice</link>
+  </entity>
+  <entity>
+  <id> 841.3 </id>
+    <mention>Loretta Lynch</mention>
+    <link>enwiki:Loretta%20Lynch</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 842 </num>
+<docid>7ffad2c2-0c57-11e5-95fd-d580f1c5d44e</docid>
+<url>https://www.washingtonpost.com/national/health-science/medical-mysteries-she-couldnt-stop-coughing-were-fragrances-to-blame/2015/07/27/7ffad2c2-0c57-11e5-95fd-d580f1c5d44e_story.html</url>
+<entities>
+  <entity>
+  <id> 842.1 </id>
+    <mention>Phoenix</mention>
+    <link>enwiki:Phoenix,%20Arizona</link>
+  </entity>
+  <entity>
+  <id> 842.2 </id>
+    <mention>Denver</mention>
+    <link>enwiki:Denver</link>
+  </entity>
+  <entity>
+  <id> 842.3 </id>
+    <mention>San Francisco</mention>
+    <link>enwiki:San%20Francisco</link>
+  </entity>
+  <entity>
+  <id> 842.4 </id>
+    <mention>National Jewish Health</mention>
+    <link>enwiki:National%20Jewish%20Health</link>
+  </entity>
+  <entity>
+  <id> 842.5 </id>
+    <mention>Arizona</mention>
+    <link>enwiki:Arizona</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 843 </num>
+<docid>53e0938aa0a0d14afb74effcd7819c79</docid>
+<url>https://www.washingtonpost.com/news/to-your-health/wp/2016/04/28/teen-birth-rate-hits-all-time-low-led-by-50-percent-decline-among-hispanics-and-blacks/</url>
+<entities>
+  <entity>
+  <id> 843.1 </id>
+    <mention>South</mention>
+    <link>enwiki:Southern%20United%20States</link>
+  </entity>
+  <entity>
+  <id> 843.2 </id>
+    <mention>New Jersey</mention>
+    <link>enwiki:New%20Jersey</link>
+  </entity>
+  <entity>
+  <id> 843.3 </id>
+    <mention>Guttmacher Institute</mention>
+    <link>enwiki:Guttmacher%20Institute</link>
+  </entity>
+  <entity>
+  <id> 843.4 </id>
+    <mention>Children's National Medical Center</mention>
+    <link>enwiki:Children%27s%20National%20Medical%20Center</link>
+  </entity>
+  <entity>
+  <id> 843.5 </id>
+    <mention>American</mention>
+    <mention>United States</mention>
+    <link>enwiki:United%20states</link>
+  </entity>
+  <entity>
+  <id> 843.6 </id>
+    <mention>Vermont</mention>
+    <link>enwiki:Vermont</link>
+  </entity>
+  <entity>
+  <id> 843.7 </id>
+    <mention>Southwest</mention>
+    <link>enwiki:Southwestern%20United%20States</link>
+  </entity>
+  <entity>
+  <id> 843.8 </id>
+    <mention>Obama</mention>
+    <link>enwiki:Barack%20Obama</link>
+  </entity>
+  <entity>
+  <id> 843.9 </id>
+    <mention>MTV</mention>
+    <link>enwiki:MTV</link>
+  </entity>
+  <entity>
+  <id> 843.10 </id>
+    <mention>Tom Frieden</mention>
+    <link>enwiki:Tom%20Frieden</link>
+  </entity>
+  <entity>
+  <id> 843.11 </id>
+    <mention>Centers for Disease Control and Prevention</mention>
+    <mention>CDC</mention>
+    <link>enwiki:Centers%20for%20Disease%20Control%20and%20Prevention</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 844 </num>
+<docid>84b81394-39ad-11e7-a59b-26e0451a96fd</docid>
+<url>https://www.washingtonpost.com/world/the_americas/mexicans-mourn-well-known-journalist-as-risks-to-reporters-skyrocket/2017/05/16/84b81394-39ad-11e7-a59b-26e0451a96fd_story.html</url>
+<entities>
+  <entity>
+  <id> 844.1 </id>
+    <mention>Javier Valdez</mention>
+    <mention>Javier</mention>
+    <mention>Valdez</mention>
+    <link>enwiki:Javier%20Valdez%20Cárdenas</link>
+  </entity>
+  <entity>
+  <id> 844.2 </id>
+    <mention>Joaquín “El Chapo” Guzmán</mention>
+    <mention>Guzmán</mention>
+    <link>enwiki:Joaquín%20"El%20Chapo"%20Guzmán</link>
+  </entity>
+  <entity>
+  <id> 844.3 </id>
+    <mention>Guerrero</mention>
+    <link>enwiki:Guerrero</link>
+  </entity>
+  <entity>
+  <id> 844.4 </id>
+    <mention>Culiacan</mention>
+    <link>enwiki:Culiacán</link>
+  </entity>
+  <entity>
+  <id> 844.5 </id>
+    <mention>La Jornada</mention>
+    <link>enwiki:La%20Jornada</link>
+  </entity>
+  <entity>
+  <id> 844.6 </id>
+    <mention>Sinaloa</mention>
+    <link>enwiki:Sinaloa</link>
+  </entity>
+  <entity>
+  <id> 844.7 </id>
+    <mention>El Siglo de Torreón</mention>
+    <link>enwiki:El%20Siglo%20de%20Torreón</link>
+  </entity>
+  <entity>
+  <id> 844.8 </id>
+    <mention>Committee to Protect Journalists</mention>
+    <mention>CPJ</mention>
+    <link>enwiki:Committee%20to%20Protect%20Journalists</link>
+  </entity>
+  <entity>
+  <id> 844.9 </id>
+    <mention>Gerardo Priego</mention>
+    <link>enwiki:Gerardo%20Priego%20Tapia</link>
+  </entity>
+  <entity>
+  <id> 844.10 </id>
+    <mention>Toyota</mention>
+    <link>enwiki:Toyota</link>
+  </entity>
+  <entity>
+  <id> 844.11 </id>
+    <mention>Miroslava Breach</mention>
+    <link>enwiki:Miroslava%20Breach</link>
+  </entity>
+  <entity>
+  <id> 844.12 </id>
+    <mention>Acapulco</mention>
+    <link>enwiki:Acapulco</link>
+  </entity>
+  <entity>
+  <id> 844.13 </id>
+    <mention>Enrique Peña Nieto</mention>
+    <link>enwiki:Enrique%20Peña%20Nieto</link>
+  </entity>
+  <entity>
+  <id> 844.14 </id>
+    <mention>Ríodoce</mention>
+    <link>enwiki:Ríodoce</link>
+  </entity>
+  <entity>
+  <id> 844.15 </id>
+    <mention>Reforma</mention>
+    <link>enwiki:Reforma</link>
+  </entity>
+  <entity>
+  <id> 844.16 </id>
+    <mention>Panama</mention>
+    <link>enwiki:Panama</link>
+  </entity>
+  <entity>
+  <id> 844.17 </id>
+    <mention>Chihuahua</mention>
+    <link>enwiki:Chihuahua%20(state)</link>
+  </entity>
+  <entity>
+  <id> 844.18 </id>
+    <mention>Pacific</mention>
+    <link>enwiki:Pacific%20Ocean</link>
+  </entity>
+  <entity>
+  <id> 844.19 </id>
+    <mention>Americas</mention>
+    <link>enwiki:Americas</link>
+  </entity>
+  <entity>
+  <id> 844.20 </id>
+    <mention>Congress</mention>
+    <link>enwiki:Congress%20of%20the%20Union</link>
+  </entity>
+  <entity>
+  <id> 844.21 </id>
+    <mention>MEXICO</mention>
+    <mention>Mexican</mention>
+    <link>enwiki:Mexico</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 845 </num>
+<docid>d71b4204-9ec8-11e5-bce4-708fe33e3288</docid>
+<url>https://www.washingtonpost.com/national/health-science/abusive-photos-on-social-media-pose-rising-threat-to-nursing-home-patients/2015/12/19/d71b4204-9ec8-11e5-bce4-708fe33e3288_story.html</url>
+<entities>
+  <entity>
+  <id> 845.1 </id>
+    <mention>Eric Schneiderman</mention>
+    <mention>Schneiderman</mention>
+    <link>enwiki:Eric%20Schneiderman</link>
+  </entity>
+  <entity>
+  <id> 845.2 </id>
+    <mention>Newaygo County</mention>
+    <link>enwiki:Newaygo%20County,%20Michigan</link>
+  </entity>
+  <entity>
+  <id> 845.3 </id>
+    <mention>Michigan</mention>
+    <link>enwiki:Michigan</link>
+  </entity>
+  <entity>
+  <id> 845.4 </id>
+    <mention>Erie County</mention>
+    <link>enwiki:Erie%20County,%20New%20York</link>
+  </entity>
+  <entity>
+  <id> 845.5 </id>
+    <mention>St. Charles</mention>
+    <link>enwiki:St.%20Charles,%20Illinois</link>
+  </entity>
+  <entity>
+  <id> 845.6 </id>
+    <mention>U.S. Centers for Medicare and Medicaid Services</mention>
+    <mention>CMS</mention>
+    <link>enwiki:Centers%20for%20Medicare%20and%20Medicaid%20Services</link>
+  </entity>
+  <entity>
+  <id> 845.7 </id>
+    <mention>Marian Ryan</mention>
+    <mention>Ryan</mention>
+    <link>enwiki:Marian%20T.%20Ryan</link>
+  </entity>
+  <entity>
+  <id> 845.8 </id>
+    <mention>Ill.</mention>
+    <link>enwiki:Illinois</link>
+  </entity>
+  <entity>
+  <id> 845.9 </id>
+    <mention>Snapchat</mention>
+    <link>enwiki:Snapchat</link>
+  </entity>
+  <entity>
+  <id> 845.10 </id>
+    <mention>California</mention>
+    <link>enwiki:California</link>
+  </entity>
+  <entity>
+  <id> 845.11 </id>
+    <mention>Wash.</mention>
+    <link>enwiki:Washington%20(state)</link>
+  </entity>
+  <entity>
+  <id> 845.12 </id>
+    <mention>Rochester</mention>
+    <link>enwiki:Rochester,%20New%20York</link>
+  </entity>
+  <entity>
+  <id> 845.13 </id>
+    <mention>Newark</mention>
+    <link>enwiki:Newark,%20Ohio</link>
+  </entity>
+  <entity>
+  <id> 845.14 </id>
+    <mention>Centralia</mention>
+    <link>enwiki:Centralia,%20Washington</link>
+  </entity>
+  <entity>
+  <id> 845.15 </id>
+    <mention>Department of Health and Human Services</mention>
+    <link>enwiki:United%20States%20Department%20of%20Health%20and%20Human%20Services</link>
+  </entity>
+  <entity>
+  <id> 845.16 </id>
+    <mention>Middlesex County</mention>
+    <link>enwiki:Middlesex%20County,%20Massachusetts</link>
+  </entity>
+  <entity>
+  <id> 845.17 </id>
+    <mention>Office for Civil Rights</mention>
+    <link>enwiki:Office%20for%20Civil%20Rights%20(Department%20of%20Health%20%26%20Human%20Services)</link>
+  </entity>
+  <entity>
+  <id> 845.18 </id>
+    <mention>Mass.</mention>
+    <link>enwiki:Massachusetts</link>
+  </entity>
+  <entity>
+  <id> 845.19 </id>
+    <mention>N.Y.</mention>
+    <mention>New York</mention>
+    <link>enwiki:New%20York%20(state)</link>
+  </entity>
+  <entity>
+  <id> 845.20 </id>
+    <mention>Ohio</mention>
+    <link>enwiki:Ohio</link>
+  </entity>
+  <entity>
+  <id> 845.21 </id>
+    <mention>Facebook</mention>
+    <link>enwiki:Facebook</link>
+  </entity>
+  <entity>
+  <id> 845.22 </id>
+    <mention>American Health Care Association</mention>
+    <link>enwiki:American%20Health%20Care%20Association</link>
+  </entity>
+  <entity>
+  <id> 845.23 </id>
+    <mention>San Diego</mention>
+    <link>enwiki:San%20Diego</link>
+  </entity>
+  <entity>
+  <id> 845.24 </id>
+    <mention>Indiana</mention>
+    <link>enwiki:Indiana</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 846 </num>
+<docid>6dc42582bb2c8ec59dba0fb85b4848ea</docid>
+<url>https://www.washingtonpost.com/news/on-small-business/wp/2017/06/15/the-crazy-new-way-this-start-up-raised-153-million-in-just-three-hours/</url>
+<entities>
+  <entity>
+  <id> 846.1 </id>
+    <mention>U.S.</mention>
+    <link>enwiki:United%20states</link>
+  </entity>
+  <entity>
+  <id> 846.2 </id>
+    <mention>Tim Draper</mention>
+    <link>enwiki:Tim%20Draper</link>
+  </entity>
+  <entity>
+  <id> 846.3 </id>
+    <mention>Israeli</mention>
+    <link>enwiki:Israel</link>
+  </entity>
+  <entity>
+  <id> 846.4 </id>
+    <mention>Securities and Exchange Commission</mention>
+    <link>enwiki:U.S.%20Securities%20and%20Exchange%20Commission</link>
+  </entity>
+  <entity>
+  <id> 846.5 </id>
+    <mention>Draper Fisher Jurvetson</mention>
+    <link>enwiki:Draper%20Fisher%20Jurvetson</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 847 </num>
+<docid>5cc92f1c73c531dc0b470e771e0eb16f</docid>
+<url>https://www.washingtonpost.com/news/morning-mix/wp/2015/01/22/disney-measles-outbreak-strikes-in-anti-vaccination-hotbed-of-california/</url>
+<entities>
+  <entity>
+  <id> 847.1 </id>
+    <mention>Los Angeles Times</mention>
+    <mention>L.A. Times</mention>
+    <link>enwiki:Los%20Angeles%20Times</link>
+  </entity>
+  <entity>
+  <id> 847.2 </id>
+    <mention>Washington</mention>
+    <link>enwiki:Washington%20(state)</link>
+  </entity>
+  <entity>
+  <id> 847.3 </id>
+    <mention>California</mention>
+    <link>enwiki:California</link>
+  </entity>
+  <entity>
+  <id> 847.4 </id>
+    <mention>Disney</mention>
+    <link>enwiki:The%20Walt%20Disney%20Company</link>
+  </entity>
+  <entity>
+  <id> 847.5 </id>
+    <mention>Utah</mention>
+    <link>enwiki:Utah</link>
+  </entity>
+  <entity>
+  <id> 847.6 </id>
+    <mention>Centers for Disease Control and Prevention</mention>
+    <mention>CDC</mention>
+    <link>enwiki:Centers%20for%20Disease%20Control%20and%20Prevention</link>
+  </entity>
+  <entity>
+  <id> 847.7 </id>
+    <mention>Colorado</mention>
+    <link>enwiki:Colorado</link>
+  </entity>
+  <entity>
+  <id> 847.8 </id>
+    <mention>Disneyland</mention>
+    <link>enwiki:Disneyland</link>
+  </entity>
+  <entity>
+  <id> 847.9 </id>
+    <mention>Michael Hiltzik</mention>
+    <link>enwiki:Michael%20Hiltzik</link>
+  </entity>
+  <entity>
+  <id> 847.10 </id>
+    <mention>Oregon</mention>
+    <link>enwiki:Oregon</link>
+  </entity>
+  <entity>
+  <id> 847.11 </id>
+    <mention>Orange County</mention>
+    <link>enwiki:Orange%20County,%20California</link>
+  </entity>
+  <entity>
+  <id> 847.12 </id>
+    <mention>Anaheim</mention>
+    <link>enwiki:Anaheim,%20California</link>
+  </entity>
+  <entity>
+  <id> 847.13 </id>
+    <mention>Disney California Adventure Park</mention>
+    <link>enwiki:Disney%20California%20Adventure</link>
+  </entity>
+  <entity>
+  <id> 847.14 </id>
+    <mention>Mexico</mention>
+    <link>enwiki:Mexico</link>
+  </entity>
+  <entity>
+  <id> 847.15 </id>
+    <mention>Orange County Register</mention>
+    <link>enwiki:Orange%20County%20Register</link>
+  </entity>
+  <entity>
+  <id> 847.16 </id>
+    <mention>Los Angeles County</mention>
+    <link>enwiki:Los%20Angeles%20County,%20California</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 848 </num>
+<docid>5a50785cf124c29ad3e9d1e112973086</docid>
+<url>https://www.washingtonpost.com/news/post-nation/wp/2017/08/03/if-cities-want-help-fighting-violent-crime-theyll-need-to-crack-down-on-illegal-immigration-attorney-general-says/</url>
+<entities>
+  <entity>
+  <id> 848.1 </id>
+    <mention>Houston</mention>
+    <link>enwiki:Houston</link>
+  </entity>
+  <entity>
+  <id> 848.2 </id>
+    <mention>Cincinnati</mention>
+    <link>enwiki:Cincinnati</link>
+  </entity>
+  <entity>
+  <id> 848.3 </id>
+    <mention>Birmingham</mention>
+    <link>enwiki:Birmingham,%20Alabama</link>
+  </entity>
+  <entity>
+  <id> 848.4 </id>
+    <mention>Ill.</mention>
+    <link>enwiki:Illinois</link>
+  </entity>
+  <entity>
+  <id> 848.5 </id>
+    <mention>Benjamin L. Cardin</mention>
+    <link>enwiki:Ben%20Cardin</link>
+  </entity>
+  <entity>
+  <id> 848.6 </id>
+    <mention>Baton Rouge</mention>
+    <link>enwiki:Baton%20Rouge,%20Louisiana</link>
+  </entity>
+  <entity>
+  <id> 848.7 </id>
+    <mention>Jeff Sessions</mention>
+    <link>enwiki:Jeff%20Sessions</link>
+  </entity>
+  <entity>
+  <id> 848.8 </id>
+    <mention>Trump Administration</mention>
+    <link>enwiki:Presidency%20of%20Donald%20Trump</link>
+  </entity>
+  <entity>
+  <id> 848.9 </id>
+    <mention>Indianapolis</mention>
+    <link>enwiki:Indianapolis</link>
+  </entity>
+  <entity>
+  <id> 848.10 </id>
+    <mention>Springfield</mention>
+    <link>enwiki:Springfield,%20Illinois</link>
+  </entity>
+  <entity>
+  <id> 848.11 </id>
+    <mention>Toledo</mention>
+    <link>enwiki:Toledo,%20Ohio</link>
+  </entity>
+  <entity>
+  <id> 848.12 </id>
+    <mention>Buffalo</mention>
+    <link>enwiki:Buffalo,%20New%20York</link>
+  </entity>
+  <entity>
+  <id> 848.13 </id>
+    <mention>Ala.</mention>
+    <link>enwiki:Alabama</link>
+  </entity>
+  <entity>
+  <id> 848.14 </id>
+    <mention>Elijah E. Cummings</mention>
+    <link>enwiki:Elijah%20Cummings</link>
+  </entity>
+  <entity>
+  <id> 848.15 </id>
+    <mention>Baltimore</mention>
+    <link>enwiki:Baltimore</link>
+  </entity>
+  <entity>
+  <id> 848.16 </id>
+    <mention>American</mention>
+    <mention>America</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 848.17 </id>
+    <mention>Chicago</mention>
+    <link>enwiki:Chicago</link>
+  </entity>
+  <entity>
+  <id> 848.18 </id>
+    <mention>Justice Department</mention>
+    <mention>Department of Justice</mention>
+    <link>enwiki:United%20States%20Department%20of%20Justice</link>
+  </entity>
+  <entity>
+  <id> 848.19 </id>
+    <mention>Mo.</mention>
+    <link>enwiki:Missouri</link>
+  </entity>
+  <entity>
+  <id> 848.20 </id>
+    <mention>Maryland</mention>
+    <link>enwiki:Maryland</link>
+  </entity>
+  <entity>
+  <id> 848.21 </id>
+    <mention>Chris Van Hollen</mention>
+    <link>enwiki:Chris%20Van%20Hollen</link>
+  </entity>
+  <entity>
+  <id> 848.22 </id>
+    <mention>Stockton</mention>
+    <link>enwiki:Stockton,%20California</link>
+  </entity>
+  <entity>
+  <id> 848.23 </id>
+    <mention>Lansing</mention>
+    <link>enwiki:Lansing,%20Michigan</link>
+  </entity>
+  <entity>
+  <id> 848.24 </id>
+    <mention>Tenn.</mention>
+    <link>enwiki:Tennessee</link>
+  </entity>
+  <entity>
+  <id> 848.25 </id>
+    <mention>Albuquerque</mention>
+    <link>enwiki:Albuquerque,%20New%20Mexico</link>
+  </entity>
+  <entity>
+  <id> 848.26 </id>
+    <mention>Department of Homeland Security</mention>
+    <mention>Homeland Security</mention>
+    <link>enwiki:United%20States%20Department%20of%20Homeland%20Security</link>
+  </entity>
+  <entity>
+  <id> 848.27 </id>
+    <mention>Dutch Ruppersberger</mention>
+    <link>enwiki:Dutch%20Ruppersberger</link>
+  </entity>
+  <entity>
+  <id> 848.28 </id>
+    <mention>Baltimore Police</mention>
+    <link>enwiki:Baltimore%20Police%20Department</link>
+  </entity>
+  <entity>
+  <id> 848.29 </id>
+    <mention>Mich.</mention>
+    <link>enwiki:Michigan</link>
+  </entity>
+  <entity>
+  <id> 848.30 </id>
+    <mention>John Sarbanes</mention>
+    <link>enwiki:John%20Sarbanes</link>
+  </entity>
+  <entity>
+  <id> 848.31 </id>
+    <mention>Memphis</mention>
+    <link>enwiki:Memphis,%20Tennessee</link>
+  </entity>
+  <entity>
+  <id> 848.32 </id>
+    <mention>Kansas City</mention>
+    <link>enwiki:Kansas%20City,%20Missouri</link>
+  </entity>
+  <entity>
+  <id> 848.33 </id>
+    <mention>San Bernardino</mention>
+    <link>enwiki:San%20Bernardino,%20California</link>
+  </entity>
+  <entity>
+  <id> 848.34 </id>
+    <mention>Trump</mention>
+    <link>enwiki:Donald%20Trump</link>
+  </entity>
+  <entity>
+  <id> 848.35 </id>
+    <mention>Jackson</mention>
+    <link>enwiki:Jackson,%20Tennessee</link>
+  </entity>
+  <entity>
+  <id> 848.36 </id>
+    <mention>Congress</mention>
+    <link>enwiki:United%20States%20Congress</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 849 </num>
+<docid>a9e12ff8fc83d08e869ba64669d350fd</docid>
+<url>https://www.washingtonpost.com/news/capital-weather-gang/wp/2014/05/09/spring-awakening-stink-bugs-you-can-build-a-better-trap/</url>
+<entities>
+  <entity>
+  <id> 849.1 </id>
+    <mention>Virginia Tech</mention>
+    <link>enwiki:Virginia%20Tech</link>
+  </entity>
+  <entity>
+  <id> 849.2 </id>
+    <mention>D.C.</mention>
+    <mention>Washington</mention>
+    <link>enwiki:Washington,%20D.C.</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 850 </num>
+<docid>540fc83a-33fa-11e7-b373-418f6849a004</docid>
+<url>https://www.washingtonpost.com/local/md-politics/chesapeake-bay-earns-c-for-overall-health-blue-crabs-rockfish-anchovies-are-thriving/2017/05/08/540fc83a-33fa-11e7-b373-418f6849a004_story.html</url>
+<entities>
+  <entity>
+  <id> 850.1 </id>
+    <mention>Choptank River</mention>
+    <link>enwiki:Choptank%20River</link>
+  </entity>
+  <entity>
+  <id> 850.2 </id>
+    <mention>Talbot</mention>
+    <link>enwiki:Talbot%20County,%20Maryland</link>
+  </entity>
+  <entity>
+  <id> 850.3 </id>
+    <mention>Maryland</mention>
+    <link>enwiki:Maryland</link>
+  </entity>
+  <entity>
+  <id> 850.4 </id>
+    <mention>Baltimore</mention>
+    <link>enwiki:Baltimore</link>
+  </entity>
+  <entity>
+  <id> 850.5 </id>
+    <mention>Benjamin L. Cardin</mention>
+    <mention>Cardin</mention>
+    <link>enwiki:Ben%20Cardin</link>
+  </entity>
+  <entity>
+  <id> 850.6 </id>
+    <mention>Patapsco</mention>
+    <link>enwiki:Patapsco%20River</link>
+  </entity>
+  <entity>
+  <id> 850.7 </id>
+    <mention>University of Maryland Center for Environmental Science</mention>
+    <mention>Center for Environmental Science</mention>
+    <link>enwiki:University%20of%20Maryland%20Center%20for%20Environmental%20Science</link>
+  </entity>
+  <entity>
+  <id> 850.8 </id>
+    <mention>Dorchester</mention>
+    <link>enwiki:Dorchester%20County,%20Maryland</link>
+  </entity>
+  <entity>
+  <id> 850.9 </id>
+    <mention>Congress</mention>
+    <link>enwiki:United%20States%20Congress</link>
+  </entity>
+  <entity>
+  <id> 850.10 </id>
+    <mention>Trump</mention>
+    <link>enwiki:Donald%20Trump</link>
+  </entity>
+  <entity>
+  <id> 850.11 </id>
+    <mention>Chesapeake Bay</mention>
+    <mention>Chesapeake</mention>
+    <link>enwiki:Chesapeake%20Bay</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 851 </num>
+<docid>c65e0878-418a-11e7-9869-bac8b446820a</docid>
+<url>https://www.washingtonpost.com/lifestyle/home/a-new-smithsonian-show-looks-at-americas-rich-history-of-gardening/2017/05/30/c65e0878-418a-11e7-9869-bac8b446820a_story.html</url>
+<entities>
+  <entity>
+  <id> 851.1 </id>
+    <mention>Rachel Carson</mention>
+    <link>enwiki:Rachel%20Carson</link>
+  </entity>
+  <entity>
+  <id> 851.2 </id>
+    <mention>Jens Jensen</mention>
+    <link>enwiki:Jens%20Jensen%20(landscape%20architect)</link>
+  </entity>
+  <entity>
+  <id> 851.3 </id>
+    <mention>Hell's Kitchen</mention>
+    <link>enwiki:Hell%27s%20Kitchen,%20Manhattan</link>
+  </entity>
+  <entity>
+  <id> 851.4 </id>
+    <mention>Smithsonian</mention>
+    <link>enwiki:Smithsonian%20Institution</link>
+  </entity>
+  <entity>
+  <id> 851.5 </id>
+    <mention>Smithsonian Libraries</mention>
+    <link>enwiki:Smithsonian%20Libraries</link>
+  </entity>
+  <entity>
+  <id> 851.6 </id>
+    <mention>Newport</mention>
+    <link>enwiki:Newport,%20Rhode%20Island</link>
+  </entity>
+  <entity>
+  <id> 851.7 </id>
+    <mention>DeWitt Clinton Park</mention>
+    <link>enwiki:DeWitt%20Clinton%20Park</link>
+  </entity>
+  <entity>
+  <id> 851.8 </id>
+    <mention>Michelle Obama</mention>
+    <link>enwiki:Michelle%20Obama</link>
+  </entity>
+  <entity>
+  <id> 851.9 </id>
+    <mention>American History Museum</mention>
+    <link>enwiki:National%20Museum%20of%20American%20History</link>
+  </entity>
+  <entity>
+  <id> 851.10 </id>
+    <mention>Frances Griscom Parsons</mention>
+    <link>enwiki:Frances%20Griscom%20Parsons</link>
+  </entity>
+  <entity>
+  <id> 851.11 </id>
+    <mention>Philadelphia</mention>
+    <link>enwiki:Philadelphia</link>
+  </entity>
+  <entity>
+  <id> 851.12 </id>
+    <mention>New York</mention>
+    <link>enwiki:New%20York%20City</link>
+  </entity>
+  <entity>
+  <id> 851.13 </id>
+    <mention>Smithsonian Gardens</mention>
+    <link>enwiki:Smithsonian%20Gardens</link>
+  </entity>
+  <entity>
+  <id> 851.14 </id>
+    <mention>Nathaniel Ward</mention>
+    <link>enwiki:Nathaniel%20Bagshaw%20Ward</link>
+  </entity>
+  <entity>
+  <id> 851.15 </id>
+    <mention>Danish</mention>
+    <link>enwiki:Denmark</link>
+  </entity>
+  <entity>
+  <id> 851.16 </id>
+    <mention>R.I.</mention>
+    <link>enwiki:Rhode%20Island</link>
+  </entity>
+  <entity>
+  <id> 851.17 </id>
+    <mention>White House Kitchen Garden</mention>
+    <link>enwiki:White%20House%20Vegetable%20Garden</link>
+  </entity>
+  <entity>
+  <id> 851.18 </id>
+    <mention>American</mention>
+    <mention>America</mention>
+    <mention>United States</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 851.19 </id>
+    <mention>Anacostia</mention>
+    <link>enwiki:Anacostia</link>
+  </entity>
+  <entity>
+  <id> 851.20 </id>
+    <mention>William Robinson</mention>
+    <link>enwiki:William%20Robinson%20(gardener)</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 852 </num>
+<docid>6f1c065141e1dea9ae66c34f92841170</docid>
+<url>https://www.washingtonpost.com/news/volokh-conspiracy/wp/2016/05/05/why-the-fdas-new-e-cigarette-regulations-are-a-gift-to-big-tobacco-and-could-actually-harm-public-health/</url>
+<entities>
+  <entity>
+  <id> 852.1 </id>
+    <mention>Altria</mention>
+    <link>enwiki:Altria</link>
+  </entity>
+  <entity>
+  <id> 852.2 </id>
+    <mention>Cornell</mention>
+    <link>enwiki:Cornell%20University</link>
+  </entity>
+  <entity>
+  <id> 852.3 </id>
+    <mention>Royal College of Physicians</mention>
+    <link>enwiki:Royal%20College%20of%20Physicians</link>
+  </entity>
+  <entity>
+  <id> 852.4 </id>
+    <mention>Yale</mention>
+    <link>enwiki:Yale%20University</link>
+  </entity>
+  <entity>
+  <id> 852.5 </id>
+    <mention>United Kingdom</mention>
+    <link>enwiki:United%20Kingdom</link>
+  </entity>
+  <entity>
+  <id> 852.6 </id>
+    <mention>Food and Drug Administration</mention>
+    <mention>FDA</mention>
+    <link>enwiki:Food%20and%20Drug%20Administration</link>
+  </entity>
+  <entity>
+  <id> 852.7 </id>
+    <mention>Washington Post</mention>
+    <link>enwiki:The%20Washington%20Post</link>
+  </entity>
+  <entity>
+  <id> 852.8 </id>
+    <mention>Reynolds</mention>
+    <link>enwiki:R.%20J.%20Reynolds%20Tobacco%20Company</link>
+  </entity>
+  <entity>
+  <id> 852.9 </id>
+    <mention>Philip Morris</mention>
+    <link>enwiki:Philip%20Morris%20USA</link>
+  </entity>
+  <entity>
+  <id> 852.10 </id>
+    <mention>Yale Journal on Regulation</mention>
+    <link>enwiki:Yale%20Journal%20on%20Regulation</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 853 </num>
+<docid>415e53f9e697cfb7baa46d9c494d2ece</docid>
+<url>https://www.washingtonpost.com/news/early-lead/wp/2016/03/14/in-stunning-admission-nfl-official-affirms-link-between-football-and-cte/</url>
+<entities>
+  <entity>
+  <id> 853.1 </id>
+    <mention>Roger Goodell</mention>
+    <link>enwiki:Roger%20Goodell</link>
+  </entity>
+  <entity>
+  <id> 853.2 </id>
+    <mention>House Committee on Energy & Commerce</mention>
+    <link>enwiki:United%20States%20House%20Committee%20on%20Energy%20and%20Commerce</link>
+  </entity>
+  <entity>
+  <id> 853.3 </id>
+    <mention>NFL Players Association</mention>
+    <link>enwiki:National%20Football%20League%20Players%20Association</link>
+  </entity>
+  <entity>
+  <id> 853.4 </id>
+    <mention>Chris Nowinski</mention>
+    <mention>Nowinski</mention>
+    <link>enwiki:Christopher%20Nowinski</link>
+  </entity>
+  <entity>
+  <id> 853.5 </id>
+    <mention>Boston University</mention>
+    <mention>Boston U.</mention>
+    <link>enwiki:Boston%20University</link>
+  </entity>
+  <entity>
+  <id> 853.6 </id>
+    <mention>ESPN</mention>
+    <link>enwiki:ESPN</link>
+  </entity>
+  <entity>
+  <id> 853.7 </id>
+    <mention>NFL</mention>
+    <link>enwiki:National%20Football%20League</link>
+  </entity>
+  <entity>
+  <id> 853.8 </id>
+    <mention>New York Times</mention>
+    <mention>Time</mention>
+    <link>enwiki:The%20New%20York%20Times</link>
+  </entity>
+  <entity>
+  <id> 853.9 </id>
+    <mention>Harvard</mention>
+    <link>enwiki:Harvard%20University</link>
+  </entity>
+  <entity>
+  <id> 853.10 </id>
+    <mention>The Post</mention>
+    <mention>The Washington Post</mention>
+    <link>enwiki:The%20Washington%20Post</link>
+  </entity>
+  <entity>
+  <id> 853.11 </id>
+    <mention>Congressional</mention>
+    <link>enwiki:United%20States%20Congress</link>
+  </entity>
+  <entity>
+  <id> 853.12 </id>
+    <mention>Toronto Star</mention>
+    <link>enwiki:Toronto%20Star</link>
+  </entity>
+  <entity>
+  <id> 853.13 </id>
+    <mention>Steve Fainaru</mention>
+    <link>enwiki:Steve%20Fainaru</link>
+  </entity>
+  <entity>
+  <id> 853.14 </id>
+    <mention>Massachusetts</mention>
+    <link>enwiki:Massachusetts</link>
+  </entity>
+  <entity>
+  <id> 853.15 </id>
+    <mention>Jeff Miller</mention>
+    <mention>Miller</mention>
+    <link>enwiki:Jeffrey%20B.%20Miller</link>
+  </entity>
+  <entity>
+  <id> 853.16 </id>
+    <mention>Janice Schakowsky</mention>
+    <mention>Schakowsky</mention>
+    <link>enwiki:Jan%20Schakowsky</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 854 </num>
+<docid>d0828a0fea8f9110154b944984cd8f28</docid>
+<url>https://www.washingtonpost.com/news/get-there/wp/2016/06/22/social-security-and-medicare-still-face-shortfalls-trustees-say/</url>
+<entities>
+  <entity>
+  <id> 854.1 </id>
+    <mention>Treasury</mention>
+    <link>enwiki:United%20States%20Department%20of%20the%20Treasury</link>
+  </entity>
+  <entity>
+  <id> 854.2 </id>
+    <mention>Elkhart</mention>
+    <link>enwiki:Elkhart,%20Indiana</link>
+  </entity>
+  <entity>
+  <id> 854.3 </id>
+    <mention>American</mention>
+    <mention>Americans</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 854.4 </id>
+    <mention>Obama</mention>
+    <link>enwiki:Barack%20Obama</link>
+  </entity>
+  <entity>
+  <id> 854.5 </id>
+    <mention>Hillary Clinton</mention>
+    <link>enwiki:Hillary%20Clinton</link>
+  </entity>
+  <entity>
+  <id> 854.6 </id>
+    <mention>Carolyn Colvin</mention>
+    <mention>Colvin</mention>
+    <link>enwiki:Carolyn%20Colvin</link>
+  </entity>
+  <entity>
+  <id> 854.7 </id>
+    <mention>Donald Trump</mention>
+    <link>enwiki:Donald%20Trump</link>
+  </entity>
+  <entity>
+  <id> 854.8 </id>
+    <mention>Vermont</mention>
+    <link>enwiki:Vermont</link>
+  </entity>
+  <entity>
+  <id> 854.9 </id>
+    <mention>Social Security Administration</mention>
+    <link>enwiki:Social%20Security%20Administration</link>
+  </entity>
+  <entity>
+  <id> 854.10 </id>
+    <mention>Jack Lew</mention>
+    <link>enwiki:Jack%20Lew</link>
+  </entity>
+  <entity>
+  <id> 854.11 </id>
+    <mention>Labor Department</mention>
+    <link>enwiki:United%20States%20Department%20of%20Labor</link>
+  </entity>
+  <entity>
+  <id> 854.12 </id>
+    <mention>Bernie Sanders</mention>
+    <link>enwiki:Bernie%20Sanders</link>
+  </entity>
+  <entity>
+  <id> 854.13 </id>
+    <mention>Congress</mention>
+    <link>enwiki:United%20States%20Congress</link>
+  </entity>
+  <entity>
+  <id> 854.14 </id>
+    <mention>Health and Human Services</mention>
+    <link>enwiki:United%20States%20Department%20of%20Health%20and%20Human%20Services</link>
+  </entity>
+  <entity>
+  <id> 854.15 </id>
+    <mention>Ind.</mention>
+    <link>enwiki:Indiana</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 855 </num>
+<docid>0bc6e8a10a6df059d2aa5ae23281b7fb</docid>
+<url>https://www.washingtonpost.com/news/to-your-health/wp/2016/10/28/new-data-show-a-deadly-measles-complication-is-more-common-than-thought/</url>
+<entities>
+  <entity>
+  <id> 855.1 </id>
+    <mention>Germany</mention>
+    <link>enwiki:Germany</link>
+  </entity>
+  <entity>
+  <id> 855.2 </id>
+    <mention>Kentucky</mention>
+    <link>enwiki:Kentucky</link>
+  </entity>
+  <entity>
+  <id> 855.3 </id>
+    <mention>David Geffen School of Medicine</mention>
+    <link>enwiki:David%20Geffen%20School%20of%20Medicine%20at%20UCLA</link>
+  </entity>
+  <entity>
+  <id> 855.4 </id>
+    <mention>Centers for Disease Control and Prevention</mention>
+    <mention>CDC</mention>
+    <link>enwiki:Centers%20for%20Disease%20Control%20and%20Prevention</link>
+  </entity>
+  <entity>
+  <id> 855.5 </id>
+    <mention>University of Louisville School of Medicine</mention>
+    <link>enwiki:University%20of%20Louisville%20School%20of%20Medicine</link>
+  </entity>
+  <entity>
+  <id> 855.6 </id>
+    <mention>Disneyland</mention>
+    <link>enwiki:Disneyland</link>
+  </entity>
+  <entity>
+  <id> 855.7 </id>
+    <mention>California</mention>
+    <link>enwiki:California</link>
+  </entity>
+  <entity>
+  <id> 855.8 </id>
+    <mention>Ohio</mention>
+    <link>enwiki:Ohio</link>
+  </entity>
+  <entity>
+  <id> 855.9 </id>
+    <mention>Orange County</mention>
+    <link>enwiki:Orange%20County,%20California</link>
+  </entity>
+  <entity>
+  <id> 855.10 </id>
+    <mention>NEW ORLEANS</mention>
+    <link>enwiki:New%20Orleans</link>
+  </entity>
+  <entity>
+  <id> 855.11 </id>
+    <mention>California Department of Public Health</mention>
+    <link>enwiki:California%20Department%20of%20Public%20Health</link>
+  </entity>
+  <entity>
+  <id> 855.12 </id>
+    <mention>University of California in Los Angeles</mention>
+    <mention>UCLA</mention>
+    <link>enwiki:University%20of%20California,%20Los%20Angeles</link>
+  </entity>
+  <entity>
+  <id> 855.13 </id>
+    <mention>United States</mention>
+    <mention>U.S.</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 856 </num>
+<docid>88bd7be0fca52c06cd550c14ce9d2416</docid>
+<url>https://www.washingtonpost.com/news/dr-gridlock/wp/2016/04/19/did-a-drone-hit-a-british-airways-plane/</url>
+<entities>
+  <entity>
+  <id> 856.1 </id>
+    <mention>Civil Aviation Authority</mention>
+    <mention>CAA</mention>
+    <link>enwiki:Civil%20Aviation%20Authority%20(United%20Kingdom)</link>
+  </entity>
+  <entity>
+  <id> 856.2 </id>
+    <mention>Washington</mention>
+    <link>enwiki:Washington,%20D.C.</link>
+  </entity>
+  <entity>
+  <id> 856.3 </id>
+    <mention>Washington Post</mention>
+    <link>enwiki:The%20Washington%20Post</link>
+  </entity>
+  <entity>
+  <id> 856.4 </id>
+    <mention>British</mention>
+    <mention>United Kingdom</mention>
+    <mention>U.K.</mention>
+    <link>enwiki:United%20Kingdom</link>
+  </entity>
+  <entity>
+  <id> 856.5 </id>
+    <mention>CNN</mention>
+    <link>enwiki:CNN</link>
+  </entity>
+  <entity>
+  <id> 856.6 </id>
+    <mention>Heathrow Airport</mention>
+    <link>enwiki:Heathrow%20Airport</link>
+  </entity>
+  <entity>
+  <id> 856.7 </id>
+    <mention>British Airline Pilots Association</mention>
+    <mention>Balpa</mention>
+    <link>enwiki:British%20Airline%20Pilots%27%20Association</link>
+  </entity>
+  <entity>
+  <id> 856.8 </id>
+    <mention>Consumer Electronics Association</mention>
+    <link>enwiki:Consumer%20Technology%20Association</link>
+  </entity>
+  <entity>
+  <id> 856.9 </id>
+    <mention>London</mention>
+    <link>enwiki:London</link>
+  </entity>
+  <entity>
+  <id> 856.10 </id>
+    <mention>BBC</mention>
+    <link>enwiki:BBC</link>
+  </entity>
+  <entity>
+  <id> 856.11 </id>
+    <mention>U.S. Federal Aviation Administration</mention>
+    <mention>FAA</mention>
+    <link>enwiki:Federal%20Aviation%20Administration</link>
+  </entity>
+  <entity>
+  <id> 856.12 </id>
+    <mention>British Airways</mention>
+    <link>enwiki:British%20Airways</link>
+  </entity>
+  <entity>
+  <id> 856.13 </id>
+    <mention>Geneva</mention>
+    <link>enwiki:Geneva</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 857 </num>
+<docid>6fe0cb2ea7838ac2c29fa0539c6bce1d</docid>
+<url>https://www.washingtonpost.com/news/parenting/wp/2017/07/24/new-attitudes-toward-adoption-from-foster-care-offer-hope/</url>
+<entities>
+  <entity>
+  <id> 857.1 </id>
+    <mention>Dave Thomas Foundation for Adoption</mention>
+    <mention>Dave Thomas Foundation</mention>
+    <link>enwiki:Dave%20Thomas%20Foundation%20for%20Adoption</link>
+  </entity>
+  <entity>
+  <id> 857.2 </id>
+    <mention>Scott Shriner</mention>
+    <link>enwiki:Scott%20Shriner</link>
+  </entity>
+  <entity>
+  <id> 857.3 </id>
+    <mention>Jillian Lauren</mention>
+    <mention>Lauren Lauren</mention>
+    <link>enwiki:Jillian%20Lauren</link>
+  </entity>
+  <entity>
+  <id> 857.4 </id>
+    <mention>Rochester</mention>
+    <link>enwiki:Rochester,%20New%20York</link>
+  </entity>
+  <entity>
+  <id> 857.5 </id>
+    <mention>Ethiopia</mention>
+    <link>enwiki:Ethiopia</link>
+  </entity>
+  <entity>
+  <id> 857.6 </id>
+    <mention>U.S.</mention>
+    <mention>US</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 857.7 </id>
+    <mention>Calif.</mention>
+    <link>enwiki:California</link>
+  </entity>
+  <entity>
+  <id> 857.8 </id>
+    <mention>Chicago</mention>
+    <link>enwiki:Chicago</link>
+  </entity>
+  <entity>
+  <id> 857.9 </id>
+    <mention>North America</mention>
+    <link>enwiki:North%20America</link>
+  </entity>
+  <entity>
+  <id> 857.10 </id>
+    <mention>Los Angeles County</mention>
+    <link>enwiki:Los%20Angeles%20County,%20California</link>
+  </entity>
+  <entity>
+  <id> 857.11 </id>
+    <mention>N.Y.</mention>
+    <link>enwiki:New%20York%20(state)</link>
+  </entity>
+  <entity>
+  <id> 857.12 </id>
+    <mention>Orange County</mention>
+    <link>enwiki:Orange%20County,%20California</link>
+  </entity>
+  <entity>
+  <id> 857.13 </id>
+    <mention>Weezer</mention>
+    <link>enwiki:Weezer</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 858 </num>
+<docid>587a617a-3e3f-11e6-84e8-1580c7db5275</docid>
+<url>https://www.washingtonpost.com/national/health-science/anacostia-river-again-receives-failing-grades-from-environmental-group/2016/06/30/587a617a-3e3f-11e6-84e8-1580c7db5275_story.html</url>
+<entities>
+  <entity>
+  <id> 858.1 </id>
+    <mention>Washington Suburban Sanitary Commission</mention>
+    <mention>WSSC</mention>
+    <link>enwiki:Washington%20Suburban%20Sanitary%20Commission</link>
+  </entity>
+  <entity>
+  <id> 858.2 </id>
+    <mention>District</mention>
+    <link>enwiki:Washington,%20D.C.</link>
+  </entity>
+  <entity>
+  <id> 858.3 </id>
+    <mention>Blue Plains Advanced Wastewater Treatment Plant</mention>
+    <mention>Blue Plains Plant</mention>
+    <link>enwiki:Blue%20Plains%20Advanced%20Wastewater%20Treatment%20Plant</link>
+  </entity>
+  <entity>
+  <id> 858.4 </id>
+    <mention>Maryland</mention>
+    <link>enwiki:Maryland</link>
+  </entity>
+  <entity>
+  <id> 858.5 </id>
+    <mention>Prince George</mention>
+    <link>enwiki:Prince%20George%27s%20County,%20Maryland</link>
+  </entity>
+  <entity>
+  <id> 858.6 </id>
+    <mention>Montgomery</mention>
+    <link>enwiki:Montgomery%20County,%20Maryland</link>
+  </entity>
+  <entity>
+  <id> 858.7 </id>
+    <mention>Anacostia River</mention>
+    <mention>Anacostia</mention>
+    <link>enwiki:Anacostia%20River</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 859 </num>
+<docid>663c2790-3f8e-11e5-9561-4b3dc93e3b9a</docid>
+<url>https://www.washingtonpost.com/local/maryland-hauled-in-1-billion-from-its-casinos-and-lottery-sales/2015/08/10/663c2790-3f8e-11e5-9561-4b3dc93e3b9a_story.html</url>
+<entities>
+  <entity>
+  <id> 859.1 </id>
+    <mention>Baltimore</mention>
+    <link>enwiki:Baltimore</link>
+  </entity>
+  <entity>
+  <id> 859.2 </id>
+    <mention>Maryland</mention>
+    <link>enwiki:Maryland</link>
+  </entity>
+  <entity>
+  <id> 859.3 </id>
+    <mention>Prince George's County</mention>
+    <link>enwiki:Prince%20George%27s%20County,%20Maryland</link>
+  </entity>
+  <entity>
+  <id> 859.4 </id>
+    <mention>Maryland Lottery and Gaming Control Agency</mention>
+    <mention>Maryland Lottery and Gaming</mention>
+    <link>enwiki:Maryland%20Lottery</link>
+  </entity>
+  <entity>
+  <id> 859.5 </id>
+    <mention>MGM National Harbor</mention>
+    <mention>MGM</mention>
+    <link>enwiki:MGM%20National%20Harbor</link>
+  </entity>
+  <entity>
+  <id> 859.6 </id>
+    <mention>Horseshoe</mention>
+    <link>enwiki:Horseshoe%20Casino%20Baltimore</link>
+  </entity>
+  <entity>
+  <id> 859.7 </id>
+    <mention>Larry Hogan</mention>
+    <mention>Hogan</mention>
+    <link>enwiki:Larry%20Hogan</link>
+  </entity>
+  <entity>
+  <id> 859.8 </id>
+    <mention>Mid-Atlantic</mention>
+    <link>enwiki:Mid-Atlantic%20(United%20States)</link>
+  </entity>
+  <entity>
+  <id> 859.9 </id>
+    <mention>Atlantic City</mention>
+    <link>enwiki:Atlantic%20City,%20New%20Jersey</link>
+  </entity>
+  <entity>
+  <id> 859.10 </id>
+    <mention>Virginia</mention>
+    <link>enwiki:Virginia</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 860 </num>
+<docid>9584295234e46a836dfde4f42ba2ca09</docid>
+<url>https://www.washingtonpost.com/news/wonk/wp/2016/04/19/say-goodbye-to-your-neighborhood-bank-branch/</url>
+<entities>
+  <entity>
+  <id> 860.1 </id>
+    <mention>Nordic</mention>
+    <link>enwiki:Nordic</link>
+  </entity>
+  <entity>
+  <id> 860.2 </id>
+    <mention>US</mention>
+    <mention>United States</mention>
+    <mention>Americans</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 860.3 </id>
+    <mention>World Bank</mention>
+    <link>enwiki:World%20Bank</link>
+  </entity>
+  <entity>
+  <id> 860.4 </id>
+    <mention>Euro zone</mention>
+    <link>enwiki:Eurozone</link>
+  </entity>
+  <entity>
+  <id> 860.5 </id>
+    <mention>London</mention>
+    <link>enwiki:London</link>
+  </entity>
+  <entity>
+  <id> 860.6 </id>
+    <mention>New York</mention>
+    <link>enwiki:New%20York%20City</link>
+  </entity>
+  <entity>
+  <id> 860.7 </id>
+    <mention>Barclays</mention>
+    <link>enwiki:Barclays</link>
+  </entity>
+  <entity>
+  <id> 860.8 </id>
+    <mention>Citi</mention>
+    <link>enwiki:Citigroup</link>
+  </entity>
+  <entity>
+  <id> 860.9 </id>
+    <mention>Latin American and the Caribbean</mention>
+    <link>enwiki:Latin%20America%20and%20the%20Caribbean</link>
+  </entity>
+  <entity>
+  <id> 860.10 </id>
+    <mention>Antony Jenkins</mention>
+    <mention>Jenkins</mention>
+    <link>enwiki:Antony%20Jenkins</link>
+  </entity>
+  <entity>
+  <id> 860.11 </id>
+    <mention>East Asia and the Pacific</mention>
+    <link>enwiki:Asia-Pacific</link>
+  </entity>
+  <entity>
+  <id> 860.12 </id>
+    <mention>Accenture</mention>
+    <link>enwiki:Accenture</link>
+  </entity>
+  <entity>
+  <id> 860.13 </id>
+    <mention>Europe</mention>
+    <mention>European</mention>
+    <link>enwiki:Europe</link>
+  </entity>
+  <entity>
+  <id> 860.14 </id>
+    <mention>Uber</mention>
+    <link>enwiki:Uber</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 861 </num>
+<docid>555bbc1c46a91e62bdcbbd0023f849a4</docid>
+<url>https://www.washingtonpost.com/news/dr-gridlock/wp/2014/01/13/gao-says-cruise-ship-safety-has-improved/</url>
+<entities>
+  <entity>
+  <id> 861.1 </id>
+    <mention>Italy</mention>
+    <link>enwiki:Italy</link>
+  </entity>
+  <entity>
+  <id> 861.2 </id>
+    <mention>U.S.</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 861.3 </id>
+    <mention>Government Accountability Office</mention>
+    <mention>GAO</mention>
+    <link>enwiki:Government%20Accountability%20Office</link>
+  </entity>
+  <entity>
+  <id> 861.4 </id>
+    <mention>Congress</mention>
+    <link>enwiki:United%20States%20Congress</link>
+  </entity>
+  <entity>
+  <id> 861.5 </id>
+    <mention>Costa Concordia</mention>
+    <link>enwiki:Costa%20Concordia</link>
+  </entity>
+  <entity>
+  <id> 861.6 </id>
+    <mention>Jay Rockefeller</mention>
+    <link>enwiki:Jay%20Rockefeller</link>
+  </entity>
+  <entity>
+  <id> 861.7 </id>
+    <mention>Doris Matsui</mention>
+    <link>enwiki:Doris%20Matsui</link>
+  </entity>
+  <entity>
+  <id> 861.8 </id>
+    <mention>Bennie G. Thompson</mention>
+    <mention>Thompson</mention>
+    <link>enwiki:Bennie%20Thompson</link>
+  </entity>
+  <entity>
+  <id> 861.9 </id>
+    <mention>U.S. Coast Guard</mention>
+    <link>enwiki:United%20States%20Coast%20Guard</link>
+  </entity>
+  <entity>
+  <id> 861.10 </id>
+    <mention>Cruise Lines International Association</mention>
+    <link>enwiki:Cruise%20Lines%20International%20Association</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 862 </num>
+<docid>623ccdaa-6013-11e7-a4f7-af34fc1d9d39</docid>
+<url>https://www.washingtonpost.com/local/md-politics/md-redistricting-case-could-stall-while-supreme-court-hears-wisconsin-case/2017/07/13/623ccdaa-6013-11e7-a4f7-af34fc1d9d39_story.html</url>
+<entities>
+  <entity>
+  <id> 862.1 </id>
+    <mention>U.S. Supreme Court</mention>
+    <mention>Supreme Court</mention>
+    <link>enwiki:Supreme%20Court%20of%20the%20United%20States</link>
+  </entity>
+  <entity>
+  <id> 862.2 </id>
+    <mention>Michael E. Busch</mention>
+    <mention>Bush</mention>
+    <mention>Busch</mention>
+    <link>enwiki:Michael%20E.%20Busch</link>
+  </entity>
+  <entity>
+  <id> 862.3 </id>
+    <mention>Republicans</mention>
+    <mention>GOP</mention>
+    <link>enwiki:Republican%20Party%20(United%20States)</link>
+  </entity>
+  <entity>
+  <id> 862.4 </id>
+    <mention>John Delaney</mention>
+    <mention>Delaney</mention>
+    <link>enwiki:John%20Delaney%20(Maryland%20politician)</link>
+  </entity>
+  <entity>
+  <id> 862.5 </id>
+    <mention>University of Chicago</mention>
+    <link>enwiki:University%20of%20Chicago</link>
+  </entity>
+  <entity>
+  <id> 862.6 </id>
+    <mention>Baltimore</mention>
+    <link>enwiki:Baltimore</link>
+  </entity>
+  <entity>
+  <id> 862.7 </id>
+    <mention>Senate</mention>
+    <link>enwiki:Maryland%20Senate</link>
+  </entity>
+  <entity>
+  <id> 862.8 </id>
+    <mention>Maryland</mention>
+    <link>enwiki:Maryland</link>
+  </entity>
+  <entity>
+  <id> 862.9 </id>
+    <mention>Roscoe G. Bartlett</mention>
+    <link>enwiki:Roscoe%20Bartlett</link>
+  </entity>
+  <entity>
+  <id> 862.10 </id>
+    <mention>Anne Arundel</mention>
+    <link>enwiki:Anne%20Arundel%20County,%20Maryland</link>
+  </entity>
+  <entity>
+  <id> 862.11 </id>
+    <mention>Tim Cullen</mention>
+    <link>enwiki:Timothy%20Cullen</link>
+  </entity>
+  <entity>
+  <id> 862.12 </id>
+    <mention>U.S. District Court</mention>
+    <link>enwiki:United%20States%20district%20court</link>
+  </entity>
+  <entity>
+  <id> 862.13 </id>
+    <mention>Larry Hogan</mention>
+    <link>enwiki:Larry%20Hogan</link>
+  </entity>
+  <entity>
+  <id> 862.14 </id>
+    <mention>Calvert</mention>
+    <link>enwiki:Calvert%20County,%20Maryland</link>
+  </entity>
+  <entity>
+  <id> 862.15 </id>
+    <mention>Wisconsin</mention>
+    <link>enwiki:Wisconsin</link>
+  </entity>
+  <entity>
+  <id> 862.16 </id>
+    <mention>Montgomery County</mention>
+    <link>enwiki:Montgomery%20County,%20Maryland</link>
+  </entity>
+  <entity>
+  <id> 862.17 </id>
+    <mention>Democrat</mention>
+    <link>enwiki:Democratic%20Party%20(United%20States)</link>
+  </entity>
+  <entity>
+  <id> 862.18 </id>
+    <mention>Thomas V. Mike Miller Jr.</mention>
+    <mention>Miller</mention>
+    <link>enwiki:Thomas%20V.%20Miller%20Jr.</link>
+  </entity>
+  <entity>
+  <id> 862.19 </id>
+    <mention>Brian E. Frosh</mention>
+    <mention>Frosh</mention>
+    <link>enwiki:Brian%20Frosh</link>
+  </entity>
+  <entity>
+  <id> 862.20 </id>
+    <mention>Martin O'Malley</mention>
+    <mention>O'Malley</mention>
+    <link>enwiki:Martin%20O%27Malley</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 863 </num>
+<docid>bf9d84082043dded9b4feb0767eee96e</docid>
+<url>https://www.washingtonpost.com/news/get-there/wp/2016/12/20/5-mistakes-americans-are-making-with-their-money/</url>
+<entities>
+  <entity>
+  <id> 863.1 </id>
+    <mention>Americans</mention>
+    <mention>U.S.</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 863.2 </id>
+    <mention>Champlain College</mention>
+    <link>enwiki:Champlain%20College</link>
+  </entity>
+  <entity>
+  <id> 863.3 </id>
+    <mention>Employee Benefit Research Institute</mention>
+    <link>enwiki:Employee%20Benefit%20Research%20Institute</link>
+  </entity>
+  <entity>
+  <id> 863.4 </id>
+    <mention>Fidelity Investments</mention>
+    <link>enwiki:Fidelity%20Investments</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 864 </num>
+<docid>cba3afc578eac3b7afe15899313cdd3a</docid>
+<url>https://www.washingtonpost.com/news/the-fix/wp/2016/01/20/sarah-palins-son-and-the-link-between-combat-duty-and-veteran-violence/</url>
+<entities>
+  <entity>
+  <id> 864.1 </id>
+    <mention>Sarah Palin</mention>
+    <mention>Palin</mention>
+    <link>enwiki:Sarah%20Palin</link>
+  </entity>
+  <entity>
+  <id> 864.2 </id>
+    <mention>American Psychological Association</mention>
+    <link>enwiki:American%20Psychological%20Association</link>
+  </entity>
+  <entity>
+  <id> 864.3 </id>
+    <mention>Donald Trump</mention>
+    <mention>Trump</mention>
+    <link>enwiki:Donald%20Trump</link>
+  </entity>
+  <entity>
+  <id> 864.4 </id>
+    <mention>Post</mention>
+    <link>enwiki:The%20Washington%20Post</link>
+  </entity>
+  <entity>
+  <id> 864.5 </id>
+    <mention>Iowa</mention>
+    <link>enwiki:Iowa</link>
+  </entity>
+  <entity>
+  <id> 864.6 </id>
+    <mention>Department of Veterans Affairs</mention>
+    <link>enwiki:United%20States%20Department%20of%20Veterans%20Affairs</link>
+  </entity>
+  <entity>
+  <id> 864.7 </id>
+    <mention>Naval Health Research Center</mention>
+    <link>enwiki:Naval%20Medical%20Research%20Center</link>
+  </entity>
+  <entity>
+  <id> 864.8 </id>
+    <mention>Alaska</mention>
+    <link>enwiki:Alaska</link>
+  </entity>
+  <entity>
+  <id> 864.9 </id>
+    <mention>John McCain</mention>
+    <mention>McCain</mention>
+    <link>enwiki:John%20McCain</link>
+  </entity>
+  <entity>
+  <id> 864.10 </id>
+    <mention>Vietnam</mention>
+    <link>enwiki:Vietnam</link>
+  </entity>
+  <entity>
+  <id> 864.11 </id>
+    <mention>Army</mention>
+    <link>enwiki:United%20States%20Army</link>
+  </entity>
+  <entity>
+  <id> 864.12 </id>
+    <mention>Oklahoma</mention>
+    <link>enwiki:Oklahoma</link>
+  </entity>
+  <entity>
+  <id> 864.13 </id>
+    <mention>Iraq</mention>
+    <mention>Iraqi</mention>
+    <link>enwiki:Iraq</link>
+  </entity>
+  <entity>
+  <id> 864.14 </id>
+    <mention>Afghanistan</mention>
+    <link>enwiki:Afghanistan</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 865 </num>
+<docid>f5a5cd2c3ef20d0550a3dd623702d23d</docid>
+<url>https://www.washingtonpost.com/news/innovations/wp/2017/06/01/your-face-or-fingerprint-could-soon-replace-your-plane-ticket/</url>
+<entities>
+  <entity>
+  <id> 865.1 </id>
+    <mention>Minneapolis-St. Paul International Airport</mention>
+    <link>enwiki:Minneapolis–Saint%20Paul%20International%20Airport</link>
+  </entity>
+  <entity>
+  <id> 865.2 </id>
+    <mention>Queen Beatrix International Airport</mention>
+    <link>enwiki:Queen%20Beatrix%20International%20Airport</link>
+  </entity>
+  <entity>
+  <id> 865.3 </id>
+    <mention>Washington</mention>
+    <link>enwiki:Washington,%20D.C.</link>
+  </entity>
+  <entity>
+  <id> 865.4 </id>
+    <mention>SITA</mention>
+    <link>enwiki:SITA%20(company)</link>
+  </entity>
+  <entity>
+  <id> 865.5 </id>
+    <mention>Delta</mention>
+    <link>enwiki:Delta%20Air%20Lines</link>
+  </entity>
+  <entity>
+  <id> 865.6 </id>
+    <mention>Logan International Airport</mention>
+    <link>enwiki:Logan%20International%20Airport</link>
+  </entity>
+  <entity>
+  <id> 865.7 </id>
+    <mention>Electronic Privacy Information Center</mention>
+    <link>enwiki:Electronic%20Privacy%20Information%20Center</link>
+  </entity>
+  <entity>
+  <id> 865.8 </id>
+    <mention>U.S. Custom and Border Protections</mention>
+    <mention>U.S. Customs and Border Protection</mention>
+    <mention>CBP</mention>
+    <link>enwiki:U.S.%20Customs%20and%20Border%20Protection</link>
+  </entity>
+  <entity>
+  <id> 865.9 </id>
+    <mention>Reagan National Airport</mention>
+    <link>enwiki:Ronald%20Reagan%20Washington%20National%20Airport</link>
+  </entity>
+  <entity>
+  <id> 865.10 </id>
+    <mention>Boston</mention>
+    <link>enwiki:Boston</link>
+  </entity>
+  <entity>
+  <id> 865.11 </id>
+    <mention>JetBlue</mention>
+    <link>enwiki:JetBlue</link>
+  </entity>
+  <entity>
+  <id> 865.12 </id>
+    <mention>Aruba</mention>
+    <link>enwiki:Aruba</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 866 </num>
+<docid>98791c1f1f74e7bd11e1369807be3a89</docid>
+<url>https://www.washingtonpost.com/news/local/wp/2016/06/16/why-banning-ar-15s-and-other-assault-weapons-wont-stop-mass-shootings/</url>
+<entities>
+  <entity>
+  <id> 866.1 </id>
+    <mention>San Bernadino</mention>
+    <link>enwiki:San%20Bernardino,%20California</link>
+  </entity>
+  <entity>
+  <id> 866.2 </id>
+    <mention>Homicide Studies</mention>
+    <link>enwiki:Homicide%20Studies</link>
+  </entity>
+  <entity>
+  <id> 866.3 </id>
+    <mention>Calif.</mention>
+    <link>enwiki:California</link>
+  </entity>
+  <entity>
+  <id> 866.4 </id>
+    <mention>Bushmaster</mention>
+    <link>enwiki:Bushmaster%20Firearms%20International</link>
+  </entity>
+  <entity>
+  <id> 866.5 </id>
+    <mention>Adam Lanza</mention>
+    <link>enwiki:Sandy%20Hook%20Elementary%20School%20shooting#Perpetrator</link>
+  </entity>
+  <entity>
+  <id> 866.6 </id>
+    <mention>New York Daily News</mention>
+    <link>enwiki:New%20York%20Daily%20News</link>
+  </entity>
+  <entity>
+  <id> 866.7 </id>
+    <mention>Seung-Hui Cho</mention>
+    <mention>Cho</mention>
+    <link>enwiki:Seung-Hui%20Cho</link>
+  </entity>
+  <entity>
+  <id> 866.8 </id>
+    <mention>Orlando</mention>
+    <link>enwiki:Orlando,%20Florida</link>
+  </entity>
+  <entity>
+  <id> 866.9 </id>
+    <mention>Northeastern University</mention>
+    <link>enwiki:Northeastern%20University</link>
+  </entity>
+  <entity>
+  <id> 866.10 </id>
+    <mention>Omar Mateen</mention>
+    <mention>Mateen</mention>
+    <link>enwiki:Omar%20Mateen</link>
+  </entity>
+  <entity>
+  <id> 866.11 </id>
+    <mention>NRA</mention>
+    <link>enwiki:National%20Rifle%20Association</link>
+  </entity>
+  <entity>
+  <id> 866.12 </id>
+    <mention>Iraq</mention>
+    <link>enwiki:Iraq</link>
+  </entity>
+  <entity>
+  <id> 866.13 </id>
+    <mention>James Alan Fox</mention>
+    <mention>Fox</mention>
+    <mention>Fox</mention>
+    <link>enwiki:James%20Alan%20Fox</link>
+  </entity>
+  <entity>
+  <id> 866.14 </id>
+    <mention>CBS</mention>
+    <link>enwiki:CBS</link>
+  </entity>
+  <entity>
+  <id> 866.15 </id>
+    <mention>Congressional Research Service</mention>
+    <link>enwiki:Congressional%20Research%20Service</link>
+  </entity>
+  <entity>
+  <id> 866.16 </id>
+    <mention>Boston Globe</mention>
+    <mention>the Globe</mention>
+    <link>enwiki:The%20Boston%20Globe</link>
+  </entity>
+  <entity>
+  <id> 866.17 </id>
+    <mention>Virginia Tech University</mention>
+    <link>enwiki:Virginia%20Tech</link>
+  </entity>
+  <entity>
+  <id> 866.18 </id>
+    <mention>Facebook</mention>
+    <link>enwiki:Facebook</link>
+  </entity>
+  <entity>
+  <id> 866.19 </id>
+    <mention>Anne Rice</mention>
+    <mention>Rice</mention>
+    <link>enwiki:Anne%20Rice</link>
+  </entity>
+  <entity>
+  <id> 866.20 </id>
+    <mention>American</mention>
+    <mention>United States</mention>
+    <mention>Americans</mention>
+    <mention>U.S.</mention>
+    <mention>US</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 867 </num>
+<docid>babfe8b6d17dbc18e38707877ac75e4e</docid>
+<url>https://www.washingtonpost.com/news/energy-environment/wp/2017/08/07/trumps-border-wall-would-slice-through-wildlife-refuges-and-cut-off-u-s-territory-in-texas/</url>
+<entities>
+  <entity>
+  <id> 867.1 </id>
+    <mention>Senate</mention>
+    <link>enwiki:United%20States%20Senate</link>
+  </entity>
+  <entity>
+  <id> 867.2 </id>
+    <mention>Will Hurd</mention>
+    <mention>Hurd</mention>
+    <link>enwiki:Will%20Hurd</link>
+  </entity>
+  <entity>
+  <id> 867.3 </id>
+    <mention>Santa Ana National Wildlife Refuge</mention>
+    <link>enwiki:Santa%20Ana%20National%20Wildlife%20Refuge</link>
+  </entity>
+  <entity>
+  <id> 867.4 </id>
+    <mention>Rio Grande</mention>
+    <link>enwiki:Rio%20Grande</link>
+  </entity>
+  <entity>
+  <id> 867.5 </id>
+    <mention>Congress</mention>
+    <link>enwiki:United%20States%20Congress</link>
+  </entity>
+  <entity>
+  <id> 867.6 </id>
+    <mention>Department of Homeland Security</mention>
+    <mention>Homeland Security</mention>
+    <mention>DHS</mention>
+    <link>enwiki:United%20States%20Department%20of%20Homeland%20Security</link>
+  </entity>
+  <entity>
+  <id> 867.7 </id>
+    <mention>Trump</mention>
+    <link>enwiki:Donald%20Trump</link>
+  </entity>
+  <entity>
+  <id> 867.8 </id>
+    <mention>George W. Bush</mention>
+    <link>enwiki:George%20W.%20Bush</link>
+  </entity>
+  <entity>
+  <id> 867.9 </id>
+    <mention>Mexican</mention>
+    <mention>Mexico</mention>
+    <link>enwiki:Mexico</link>
+  </entity>
+  <entity>
+  <id> 867.10 </id>
+    <mention>Mission</mention>
+    <link>enwiki:Mission,%20Texas</link>
+  </entity>
+  <entity>
+  <id> 867.11 </id>
+    <mention>Canada</mention>
+    <link>enwiki:Canada</link>
+  </entity>
+  <entity>
+  <id> 867.12 </id>
+    <mention>Border Patrol</mention>
+    <link>enwiki:United%20States%20Border%20Patrol</link>
+  </entity>
+  <entity>
+  <id> 867.13 </id>
+    <mention>Rio Grande Valley</mention>
+    <link>enwiki:Rio%20Grande%20Valley</link>
+  </entity>
+  <entity>
+  <id> 867.14 </id>
+    <mention>Army Corps of Engineers</mention>
+    <link>enwiki:United%20States%20Army%20Corps%20of%20Engineers</link>
+  </entity>
+  <entity>
+  <id> 867.15 </id>
+    <mention>United States</mention>
+    <mention>America</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 867.16 </id>
+    <mention>Lake Amistad National Recreation Area</mention>
+    <link>enwiki:Amistad%20National%20Recreation%20Area</link>
+  </entity>
+  <entity>
+  <id> 867.17 </id>
+    <mention>Customs and Border Patrol</mention>
+    <link>enwiki:U.S.%20Customs%20and%20Border%20Protection</link>
+  </entity>
+  <entity>
+  <id> 867.18 </id>
+    <mention>Fort Worth</mention>
+    <link>enwiki:Fort%20Worth,%20Texas</link>
+  </entity>
+  <entity>
+  <id> 867.19 </id>
+    <mention>House</mention>
+    <link>enwiki:United%20States%20House%20of%20Representatives</link>
+  </entity>
+  <entity>
+  <id> 867.20 </id>
+    <mention>San Diego</mention>
+    <link>enwiki:San%20Diego</link>
+  </entity>
+  <entity>
+  <id> 867.21 </id>
+    <mention>Tex.</mention>
+    <mention>Texas</mention>
+    <link>enwiki:Texas</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 868 </num>
+<docid>2c9485cf6bf33f13740dcb04c572b9e2</docid>
+<url>https://www.washingtonpost.com/news/energy-environment/wp/2017/04/19/humans-have-filled-the-pristine-arctic-ocean-with-300-billion-pieces-of-floating-plastic/</url>
+<entities>
+  <entity>
+  <id> 868.1 </id>
+    <mention>France</mention>
+    <link>enwiki:France</link>
+  </entity>
+  <entity>
+  <id> 868.2 </id>
+    <mention>Denmark</mention>
+    <link>enwiki:Denmark</link>
+  </entity>
+  <entity>
+  <id> 868.3 </id>
+    <mention>University of Toronto</mention>
+    <link>enwiki:University%20of%20Toronto</link>
+  </entity>
+  <entity>
+  <id> 868.4 </id>
+    <mention>Earth</mention>
+    <link>enwiki:Earth</link>
+  </entity>
+  <entity>
+  <id> 868.5 </id>
+    <mention>Scandinavia</mention>
+    <link>enwiki:Scandinavia</link>
+  </entity>
+  <entity>
+  <id> 868.6 </id>
+    <mention>Spain</mention>
+    <link>enwiki:Spain</link>
+  </entity>
+  <entity>
+  <id> 868.7 </id>
+    <mention>Barents</mention>
+    <mention>Barents Sea</mention>
+    <link>enwiki:Barents%20Sea</link>
+  </entity>
+  <entity>
+  <id> 868.8 </id>
+    <mention>Atlantic</mention>
+    <link>enwiki:Atlantic%20Ocean</link>
+  </entity>
+  <entity>
+  <id> 868.9 </id>
+    <mention>King Abdullah University of Science and Technology</mention>
+    <link>enwiki:King%20Abdullah%20University%20of%20Science%20and%20Technology</link>
+  </entity>
+  <entity>
+  <id> 868.10 </id>
+    <mention>United States</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 868.11 </id>
+    <mention>Saudi Arabia</mention>
+    <link>enwiki:Saudi%20Arabia</link>
+  </entity>
+  <entity>
+  <id> 868.12 </id>
+    <mention>United Kingdom</mention>
+    <link>enwiki:United%20Kingdom</link>
+  </entity>
+  <entity>
+  <id> 868.13 </id>
+    <mention>University of Cádiz</mention>
+    <link>enwiki:University%20of%20Cádiz</link>
+  </entity>
+  <entity>
+  <id> 868.14 </id>
+    <mention>Europeans</mention>
+    <link>enwiki:Europe</link>
+  </entity>
+  <entity>
+  <id> 868.15 </id>
+    <mention>Netherlands</mention>
+    <link>enwiki:Netherlands</link>
+  </entity>
+  <entity>
+  <id> 868.16 </id>
+    <mention>North Americans</mention>
+    <link>enwiki:North%20America</link>
+  </entity>
+  <entity>
+  <id> 868.17 </id>
+    <mention>Arctic Ocean</mention>
+    <link>enwiki:Arctic%20Ocean</link>
+  </entity>
+  <entity>
+  <id> 868.18 </id>
+    <mention>Arctic</mention>
+    <link>enwiki:Arctic</link>
+  </entity>
+  <entity>
+  <id> 868.19 </id>
+    <mention>Japan</mention>
+    <link>enwiki:Japan</link>
+  </entity>
+  <entity>
+  <id> 868.20 </id>
+    <mention>Greenland</mention>
+    <link>enwiki:Greenland</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 869 </num>
+<docid>4d2e805d3293fdef30ce737a97528247</docid>
+<url>https://www.washingtonpost.com/news/monkey-cage/wp/2015/03/01/conservatives-are-more-likely-to-believe-that-vaccines-cause-autism/</url>
+<entities>
+  <entity>
+  <id> 869.1 </id>
+    <mention>American</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 869.2 </id>
+    <mention>Obama</mention>
+    <link>enwiki:Barack%20Obama</link>
+  </entity>
+  <entity>
+  <id> 869.3 </id>
+    <mention>YouGov</mention>
+    <link>enwiki:YouGov</link>
+  </entity>
+  <entity>
+  <id> 869.4 </id>
+    <mention>California</mention>
+    <link>enwiki:California</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 870 </num>
+<docid>d7d906991e2883889f850de9ae06655e</docid>
+<url>https://www.washingtonpost.com/news/powerpost/wp/2017/03/16/seven-transgender-women-have-been-killed-this-year-democrats-want-jeff-sessions-to-investigate/</url>
+<entities>
+  <entity>
+  <id> 870.1 </id>
+    <mention>Trump</mention>
+    <link>enwiki:Donald%20Trump</link>
+  </entity>
+  <entity>
+  <id> 870.2 </id>
+    <mention>Chicago</mention>
+    <link>enwiki:Chicago</link>
+  </entity>
+  <entity>
+  <id> 870.3 </id>
+    <mention>Human Rights Campaign</mention>
+    <link>enwiki:Human%20Rights%20Campaign</link>
+  </entity>
+  <entity>
+  <id> 870.4 </id>
+    <mention>Department of Justice</mention>
+    <mention>Justice Department</mention>
+    <link>enwiki:United%20States%20Department%20of%20Justice</link>
+  </entity>
+  <entity>
+  <id> 870.5 </id>
+    <mention>S.D.</mention>
+    <link>enwiki:South%20Dakota</link>
+  </entity>
+  <entity>
+  <id> 870.6 </id>
+    <mention>Kentucky</mention>
+    <link>enwiki:Kentucky</link>
+  </entity>
+  <entity>
+  <id> 870.7 </id>
+    <mention>The Washington Post</mention>
+    <link>enwiki:The%20Washington%20Post</link>
+  </entity>
+  <entity>
+  <id> 870.8 </id>
+    <mention>Miss.</mention>
+    <link>enwiki:Mississippi</link>
+  </entity>
+  <entity>
+  <id> 870.9 </id>
+    <mention>Times-Picayune</mention>
+    <link>enwiki:The%20Times-Picayune</link>
+  </entity>
+  <entity>
+  <id> 870.10 </id>
+    <mention>Congress</mention>
+    <link>enwiki:United%20States%20Congress</link>
+  </entity>
+  <entity>
+  <id> 870.11 </id>
+    <mention>Chicago Tribune</mention>
+    <link>enwiki:Chicago%20Tribune</link>
+  </entity>
+  <entity>
+  <id> 870.12 </id>
+    <mention>U.S.</mention>
+    <mention>Americans</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 870.13 </id>
+    <mention>White House</mention>
+    <link>enwiki:White%20House</link>
+  </entity>
+  <entity>
+  <id> 870.14 </id>
+    <mention>Jeff Sessions</mention>
+    <link>enwiki:Jeff%20Sessions</link>
+  </entity>
+  <entity>
+  <id> 870.15 </id>
+    <mention>Trump Tower</mention>
+    <link>enwiki:Trump%20International%20Hotel%20and%20Tower%20(Chicago)</link>
+  </entity>
+  <entity>
+  <id> 870.16 </id>
+    <mention>Congress's Equality Caucus</mention>
+    <link>enwiki:Congressional%20LGBT%20Equality%20Caucus</link>
+  </entity>
+  <entity>
+  <id> 870.17 </id>
+    <mention>Canton</mention>
+    <link>enwiki:Canton,%20Mississippi</link>
+  </entity>
+  <entity>
+  <id> 870.18 </id>
+    <mention>Toledo</mention>
+    <link>enwiki:Toledo,%20Ohio</link>
+  </entity>
+  <entity>
+  <id> 870.19 </id>
+    <mention>Joe Kennedy III</mention>
+    <mention>Kennedy</mention>
+    <link>enwiki:Joe%20Kennedy%20III</link>
+  </entity>
+  <entity>
+  <id> 870.20 </id>
+    <mention>New Orleans</mention>
+    <link>enwiki:New%20Orleans</link>
+  </entity>
+  <entity>
+  <id> 870.21 </id>
+    <mention>FBI</mention>
+    <link>enwiki:Federal%20Bureau%20of%20Investigation</link>
+  </entity>
+  <entity>
+  <id> 870.22 </id>
+    <mention>Sioux Falls</mention>
+    <link>enwiki:Sioux%20Falls,%20South%20Dakota</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 871 </num>
+<docid>7b7126ae-0500-11e7-b1e9-a05d3c21f7cf</docid>
+<url>https://www.washingtonpost.com/national/health-science/china-plans-a-new-moon-probe-in-response-to-possible-return-there-by-us/2017/03/13/7b7126ae-0500-11e7-b1e9-a05d3c21f7cf_story.html</url>
+<entities>
+  <entity>
+  <id> 871.1 </id>
+    <mention>Trump</mention>
+    <link>enwiki:Donald%20Trump</link>
+  </entity>
+  <entity>
+  <id> 871.2 </id>
+    <mention>China National Space Administration</mention>
+    <link>enwiki:China%20National%20Space%20Administration</link>
+  </entity>
+  <entity>
+  <id> 871.3 </id>
+    <mention>People's Daily</mention>
+    <link>enwiki:People%27s%20Daily</link>
+  </entity>
+  <entity>
+  <id> 871.4 </id>
+    <mention>Trump Administration</mention>
+    <link>enwiki:Presidency%20of%20Donald%20Trump</link>
+  </entity>
+  <entity>
+  <id> 871.5 </id>
+    <mention>NASA</mention>
+    <link>enwiki:NASA</link>
+  </entity>
+  <entity>
+  <id> 871.6 </id>
+    <mention>U.S.</mention>
+    <mention>United States</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 871.7 </id>
+    <mention>Xi Jinping</mention>
+    <link>enwiki:Xi%20Jinping</link>
+  </entity>
+  <entity>
+  <id> 871.8 </id>
+    <mention>Earth</mention>
+    <link>enwiki:Earth</link>
+  </entity>
+  <entity>
+  <id> 871.9 </id>
+    <mention>China</mention>
+    <mention>Chinese</mention>
+    <link>enwiki:China</link>
+  </entity>
+  <entity>
+  <id> 871.10 </id>
+    <mention>Science and Technology Daily</mention>
+    <link>enwiki:Science%20and%20Technology%20Daily</link>
+  </entity>
+  <entity>
+  <id> 871.11 </id>
+    <mention>Chang’e-5</mention>
+    <link>enwiki:Chang'e%205</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 872 </num>
+<docid>e833068d3a08ad64398330bbc3b1759b</docid>
+<url>https://www.washingtonpost.com/news/wonk/wp/2015/12/14/since-sandy-hook-more-than-300-children-have-been-murdered-with-guns/</url>
+<entities>
+  <entity>
+  <id> 872.1 </id>
+    <mention>Newtown</mention>
+    <link>enwiki:Newtown,%20Connecticut</link>
+  </entity>
+  <entity>
+  <id> 872.2 </id>
+    <mention>Omaha</mention>
+    <link>enwiki:Omaha,%20Nebraska</link>
+  </entity>
+  <entity>
+  <id> 872.3 </id>
+    <mention>Florida</mention>
+    <link>enwiki:Florida</link>
+  </entity>
+  <entity>
+  <id> 872.4 </id>
+    <mention>Everytown</mention>
+    <link>enwiki:Everytown%20for%20Gun%20Safety</link>
+  </entity>
+  <entity>
+  <id> 872.5 </id>
+    <mention>CDC</mention>
+    <link>enwiki:Centers%20for%20Disease%20Control%20and%20Prevention</link>
+  </entity>
+  <entity>
+  <id> 872.6 </id>
+    <mention>Conn.</mention>
+    <link>enwiki:Connecticut</link>
+  </entity>
+  <entity>
+  <id> 872.7 </id>
+    <mention>Sandy Hook</mention>
+    <link>enwiki:Sandy%20Hook,%20Connecticut</link>
+  </entity>
+  <entity>
+  <id> 872.8 </id>
+    <mention>United States</mention>
+    <mention>American</mention>
+    <mention>USA</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 872.9 </id>
+    <mention>America</mention>
+    <link>enwiki:United</link>
+  </entity>
+  <entity>
+  <id> 872.10 </id>
+    <mention>Columbine</mention>
+    <link>enwiki:Columbine,%20Colorado</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 873 </num>
+<docid>05c0a5ad-108f-46b9-b6f7-5f2303f6cdfe</docid>
+<url>https://www.washingtonpost.com/world/africa/they-served-an-abusive-government-the-un-made-them-peacekeepers-anyway/2016/12/23/05c0a5ad-108f-46b9-b6f7-5f2303f6cdfe_story.html</url>
+<entities>
+  <entity>
+  <id> 873.1 </id>
+    <mention>Africa</mention>
+    <mention>African</mention>
+    <link>enwiki:Africa</link>
+  </entity>
+  <entity>
+  <id> 873.2 </id>
+    <mention>African Union</mention>
+    <link>enwiki:African%20Union</link>
+  </entity>
+  <entity>
+  <id> 873.3 </id>
+    <mention>Post</mention>
+    <mention>The Post</mention>
+    <mention>Washington Post</mention>
+    <link>enwiki:The%20Washington%20Post</link>
+  </entity>
+  <entity>
+  <id> 873.4 </id>
+    <mention>Congo</mention>
+    <mention>Congolese</mention>
+    <link>enwiki:Democratic%20Republic%20of%20the%20Congo</link>
+  </entity>
+  <entity>
+  <id> 873.5 </id>
+    <mention>Burundi</mention>
+    <mention>Burundian</mention>
+    <mention>Burundians</mention>
+    <link>enwiki:Burundi</link>
+  </entity>
+  <entity>
+  <id> 873.6 </id>
+    <mention>U.N.</mention>
+    <mention>United Nations</mention>
+    <link>enwiki:United%20Nations</link>
+  </entity>
+  <entity>
+  <id> 873.7 </id>
+    <mention>E.U.</mention>
+    <mention>European Union</mention>
+    <link>enwiki:European%20Union</link>
+  </entity>
+  <entity>
+  <id> 873.8 </id>
+    <mention>BUTARE</mention>
+    <mention>Butare</mention>
+    <link>enwiki:Butare</link>
+  </entity>
+  <entity>
+  <id> 873.9 </id>
+    <mention>Stéphane Dujarric</mention>
+    <mention>Dujarric</mention>
+    <link>enwiki:Stéphane%20Dujarric</link>
+  </entity>
+  <entity>
+  <id> 873.10 </id>
+    <mention>Inner City Press</mention>
+    <link>enwiki:Inner%20City%20Press</link>
+  </entity>
+  <entity>
+  <id> 873.11 </id>
+    <mention>Somalia</mention>
+    <link>enwiki:Somalia</link>
+  </entity>
+  <entity>
+  <id> 873.12 </id>
+    <mention>New York</mention>
+    <link>enwiki:New%20York%20City</link>
+  </entity>
+  <entity>
+  <id> 873.13 </id>
+    <mention>Rwanda</mention>
+    <link>enwiki:Rwanda</link>
+  </entity>
+  <entity>
+  <id> 873.14 </id>
+    <mention>Twitter</mention>
+    <link>enwiki:Twitter</link>
+  </entity>
+  <entity>
+  <id> 873.15 </id>
+    <mention>Uganda</mention>
+    <link>enwiki:Uganda</link>
+  </entity>
+  <entity>
+  <id> 873.16 </id>
+    <mention>Kemo</mention>
+    <link>enwiki:Kémo</link>
+  </entity>
+  <entity>
+  <id> 873.17 </id>
+    <mention>United States</mention>
+    <mention>Washington</mention>
+    <link>enwiki:United%20states</link>
+  </entity>
+  <entity>
+  <id> 873.18 </id>
+    <mention>Bangui</mention>
+    <link>enwiki:Bangui</link>
+  </entity>
+  <entity>
+  <id> 873.19 </id>
+    <mention>Human Rights Watch</mention>
+    <link>enwiki:Human%20Rights%20Watch</link>
+  </entity>
+  <entity>
+  <id> 873.20 </id>
+    <mention>Pierre Nkurunziza</mention>
+    <link>enwiki:Pierre%20Nkurunziza</link>
+  </entity>
+  <entity>
+  <id> 873.21 </id>
+    <mention>Maqsood Ahmed</mention>
+    <link>enwiki:Maqsood%20Ahmad</link>
+  </entity>
+  <entity>
+  <id> 873.22 </id>
+    <mention>Bujumbura</mention>
+    <link>enwiki:Bujumbura</link>
+  </entity>
+  <entity>
+  <id> 873.23 </id>
+    <mention>Amnesty International</mention>
+    <link>enwiki:Amnesty%20International</link>
+  </entity>
+  <entity>
+  <id> 873.24 </id>
+    <mention>Central African Republic</mention>
+    <link>enwiki:Central%20African%20Republic</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 874 </num>
+<docid>fb6c2426-ea52-11e6-b82f-687d6e6a3e7c</docid>
+<url>https://www.washingtonpost.com/realestate/the-perfect-flip/2017/03/01/fb6c2426-ea52-11e6-b82f-687d6e6a3e7c_story.html</url>
+<entities>
+  <entity>
+  <id> 874.1 </id>
+    <mention>DC</mention>
+    <mention>District</mention>
+    <mention>Washington</mention>
+    <link>enwiki:Washington,%20D.C.</link>
+  </entity>
+  <entity>
+  <id> 874.2 </id>
+    <mention>Capitol Heights</mention>
+    <link>enwiki:Capitol%20Heights,%20Maryland</link>
+  </entity>
+  <entity>
+  <id> 874.3 </id>
+    <mention>Fort Totten</mention>
+    <link>enwiki:Fort%20Totten%20(Washington,%20D.C.)</link>
+  </entity>
+  <entity>
+  <id> 874.4 </id>
+    <mention>Great Neck</mention>
+    <link>enwiki:Great%20Neck,%20New%20York</link>
+  </entity>
+  <entity>
+  <id> 874.5 </id>
+    <mention>N.Y.</mention>
+    <link>enwiki:New%20York%20(state)</link>
+  </entity>
+  <entity>
+  <id> 874.6 </id>
+    <mention>Woodbridge</mention>
+    <link>enwiki:Woodbridge,%20Virginia</link>
+  </entity>
+  <entity>
+  <id> 874.7 </id>
+    <mention>Va.</mention>
+    <link>enwiki:Virginia</link>
+  </entity>
+  <entity>
+  <id> 874.8 </id>
+    <mention>Irvine</mention>
+    <link>enwiki:Irvine,%20California</link>
+  </entity>
+  <entity>
+  <id> 874.9 </id>
+    <mention>Petworth</mention>
+    <link>enwiki:Petworth%20(Washington,%20D.C.)</link>
+  </entity>
+  <entity>
+  <id> 874.10 </id>
+    <mention>Marshall Heights</mention>
+    <link>enwiki:Marshall%20Heights%20(Washington,%20D.C.)</link>
+  </entity>
+  <entity>
+  <id> 874.11 </id>
+    <mention>Las Vegas</mention>
+    <link>enwiki:Las%20Vegas</link>
+  </entity>
+  <entity>
+  <id> 874.12 </id>
+    <mention>Miami</mention>
+    <link>enwiki:Miami</link>
+  </entity>
+  <entity>
+  <id> 874.13 </id>
+    <mention>Crestwood</mention>
+    <link>enwiki:Crestwood%20(Washington,%20D.C.)</link>
+  </entity>
+  <entity>
+  <id> 874.14 </id>
+    <mention>Riggs Park</mention>
+    <link>enwiki:Riggs%20Park</link>
+  </entity>
+  <entity>
+  <id> 874.15 </id>
+    <mention>Calif.</mention>
+    <link>enwiki:California</link>
+  </entity>
+  <entity>
+  <id> 874.16 </id>
+    <mention>Fort Dupont</mention>
+    <link>enwiki:Fort%20Dupont</link>
+  </entity>
+  <entity>
+  <id> 874.17 </id>
+    <mention>Eagle Bank</mention>
+    <link>enwiki:EagleBank</link>
+  </entity>
+  <entity>
+  <id> 874.18 </id>
+    <mention>Grant Park</mention>
+    <link>enwiki:Grant%20Park,%20Washington,%20D.C.</link>
+  </entity>
+  <entity>
+  <id> 874.19 </id>
+    <mention>Washington Post</mention>
+    <link>enwiki:The%20Washington%20Post</link>
+  </entity>
+  <entity>
+  <id> 874.20 </id>
+    <mention>Tampa</mention>
+    <link>enwiki:Tampa,%20Florida</link>
+  </entity>
+  <entity>
+  <id> 874.21 </id>
+    <mention>HGTV</mention>
+    <link>enwiki:HGTV</link>
+  </entity>
+  <entity>
+  <id> 874.22 </id>
+    <mention>Memphis</mention>
+    <link>enwiki:Memphis,%20Tennessee</link>
+  </entity>
+  <entity>
+  <id> 874.23 </id>
+    <mention>New Orleans</mention>
+    <link>enwiki:New%20Orleans</link>
+  </entity>
+  <entity>
+  <id> 874.24 </id>
+    <mention>Brightwood</mention>
+    <link>enwiki:Brightwood%20(Washington,%20D.C.)</link>
+  </entity>
+  <entity>
+  <id> 874.25 </id>
+    <mention>McGillivray</mention>
+    <mention>Scott McGillivray</mention>
+    <link>enwiki:Scott%20McGillivray</link>
+  </entity>
+  <entity>
+  <id> 874.26 </id>
+    <mention>Phoenix</mention>
+    <link>enwiki:Phoenix,%20Arizona</link>
+  </entity>
+  <entity>
+  <id> 874.27 </id>
+    <mention>Deanwood</mention>
+    <link>enwiki:Deanwood</link>
+  </entity>
+  <entity>
+  <id> 874.28 </id>
+    <mention>Benning Heights</mention>
+    <link>enwiki:Benning%20Heights</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 875 </num>
+<docid>14f6eb04dbaa9c5d6f5170cffc67e463</docid>
+<url>https://www.washingtonpost.com/news/food/wp/2016/08/08/chipotles-new-burger-concept-is-just-too-tasty-for-one-competitor/</url>
+<entities>
+  <entity>
+  <id> 875.1 </id>
+    <mention>Washington</mention>
+    <link>enwiki:Washington,%20D.C.</link>
+  </entity>
+  <entity>
+  <id> 875.2 </id>
+    <mention>Kansas</mention>
+    <link>enwiki:Kansas</link>
+  </entity>
+  <entity>
+  <id> 875.3 </id>
+    <mention>Boston</mention>
+    <link>enwiki:Boston</link>
+  </entity>
+  <entity>
+  <id> 875.4 </id>
+    <mention>Chipotle</mention>
+    <link>enwiki:Chipotle%20Mexican%20Grill</link>
+  </entity>
+  <entity>
+  <id> 875.5 </id>
+    <mention>Lancaster</mention>
+    <link>enwiki:Lancaster,%20Ohio</link>
+  </entity>
+  <entity>
+  <id> 875.6 </id>
+    <mention>ShopHouse</mention>
+    <link>enwiki:ShopHouse%20Southeast%20Asian%20Kitchen</link>
+  </entity>
+  <entity>
+  <id> 875.7 </id>
+    <mention>Supplemental Register</mention>
+    <link>enwiki:Supplemental%20Register</link>
+  </entity>
+  <entity>
+  <id> 875.8 </id>
+    <mention>Ohio</mention>
+    <link>enwiki:Ohio</link>
+  </entity>
+  <entity>
+  <id> 875.9 </id>
+    <mention>Missouri</mention>
+    <link>enwiki:Missouri</link>
+  </entity>
+  <entity>
+  <id> 875.10 </id>
+    <mention>Massachusetts</mention>
+    <link>enwiki:Massachusetts</link>
+  </entity>
+  <entity>
+  <id> 875.11 </id>
+    <mention>Colorado</mention>
+    <link>enwiki:Colorado</link>
+  </entity>
+  <entity>
+  <id> 875.12 </id>
+    <mention>Principal Register</mention>
+    <link>enwiki:Principal%20Register</link>
+  </entity>
+  <entity>
+  <id> 875.13 </id>
+    <mention>Tasty Made</mention>
+    <link>enwiki:Tasty%20Made</link>
+  </entity>
+  <entity>
+  <id> 875.14 </id>
+    <mention>California</mention>
+    <link>enwiki:California</link>
+  </entity>
+  <entity>
+  <id> 875.15 </id>
+    <mention>United States Patent and Trademark Office</mention>
+    <link>enwiki:United%20States%20Patent%20and%20Trademark%20Office</link>
+  </entity>
+  <entity>
+  <id> 875.16 </id>
+    <mention>Eater</mention>
+    <link>enwiki:Eater%20(website)</link>
+  </entity>
+  <entity>
+  <id> 875.17 </id>
+    <mention>United States</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 875.18 </id>
+    <mention>Illinois</mention>
+    <link>enwiki:Illinois</link>
+  </entity>
+  <entity>
+  <id> 875.19 </id>
+    <mention>Boston Red Sox</mention>
+    <link>enwiki:Boston%20Red%20Sox</link>
+  </entity>
+  <entity>
+  <id> 875.20 </id>
+    <mention>International Trademark Association</mention>
+    <link>enwiki:International%20Trademark%20Association</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 876 </num>
+<docid>fef77fc9335b33d975132ce603182846</docid>
+<url>https://www.washingtonpost.com/news/soloish/wp/2017/05/16/how-do-couples-live-in-tiny-homes-without-killing-each-other/</url>
+<entities>
+  <entity>
+  <id> 876.1 </id>
+    <mention>Boulder</mention>
+    <link>enwiki:Boulder,%20Colorado</link>
+  </entity>
+  <entity>
+  <id> 876.2 </id>
+    <mention>Colo.</mention>
+    <mention>Colorado</mention>
+    <link>enwiki:Colorado</link>
+  </entity>
+  <entity>
+  <id> 876.3 </id>
+    <mention>Instagram</mention>
+    <link>enwiki:Instagram</link>
+  </entity>
+  <entity>
+  <id> 876.4 </id>
+    <mention>Minnesota</mention>
+    <link>enwiki:Minnesota</link>
+  </entity>
+  <entity>
+  <id> 876.5 </id>
+    <mention>Napa</mention>
+    <link>enwiki:Napa,%20California</link>
+  </entity>
+  <entity>
+  <id> 876.6 </id>
+    <mention>Pinterest</mention>
+    <link>enwiki:Pinterest</link>
+  </entity>
+  <entity>
+  <id> 876.7 </id>
+    <mention>New York</mention>
+    <link>enwiki:New%20York%20City</link>
+  </entity>
+  <entity>
+  <id> 876.8 </id>
+    <mention>Calif.</mention>
+    <link>enwiki:California</link>
+  </entity>
+  <entity>
+  <id> 876.9 </id>
+    <mention>Los Angeles</mention>
+    <link>enwiki:Los%20Angeles</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 877 </num>
+<docid>7047115870d7910b42bc779541f5deb5</docid>
+<url>https://www.washingtonpost.com/news/josh-rogin/wp/2016/11/14/flournoy-to-trump-let-women-serve-in-combat-roles/</url>
+<entities>
+  <entity>
+  <id> 877.1 </id>
+    <mention>Clinton</mention>
+    <mention>Hillary Clinton</mention>
+    <link>enwiki:Hillary%20Clinton</link>
+  </entity>
+  <entity>
+  <id> 877.2 </id>
+    <mention>Obama</mention>
+    <link>enwiki:Barack%20Obama</link>
+  </entity>
+  <entity>
+  <id> 877.3 </id>
+    <mention>Joseph Dunford</mention>
+    <link>enwiki:Joseph%20Dunford</link>
+  </entity>
+  <entity>
+  <id> 877.4 </id>
+    <mention>Flournoy</mention>
+    <mention>Michèle Flournoy</mention>
+    <link>enwiki:Michèle%20Flournoy</link>
+  </entity>
+  <entity>
+  <id> 877.5 </id>
+    <mention>Joint Chiefs of Staff</mention>
+    <link>enwiki:Joint%20Chiefs%20of%20Staff</link>
+  </entity>
+  <entity>
+  <id> 877.6 </id>
+    <mention>Aspen Institute</mention>
+    <link>enwiki:Aspen%20Institute</link>
+  </entity>
+  <entity>
+  <id> 877.7 </id>
+    <mention>GOP</mention>
+    <link>enwiki:Republican%20Party%20(United%20States)</link>
+  </entity>
+  <entity>
+  <id> 877.8 </id>
+    <mention>Marine Corps</mention>
+    <link>enwiki:United%20States%20Marine%20Corps</link>
+  </entity>
+  <entity>
+  <id> 877.9 </id>
+    <mention>America</mention>
+    <mention>U.S.</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 877.10 </id>
+    <mention>Donald Trump</mention>
+    <mention>Trump</mention>
+    <link>enwiki:Donald%20Trump</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 878 </num>
+<docid>97b489e2-0a38-11e5-9e39-0db921c47b93</docid>
+<url>https://www.washingtonpost.com/opinions/choleras-fresh-attack-in-haiti/2015/06/04/97b489e2-0a38-11e5-9e39-0db921c47b93_story.html</url>
+<entities>
+  <entity>
+  <id> 878.1 </id>
+    <mention>Partners in Health</mention>
+    <link>enwiki:Partners%20In%20Health</link>
+  </entity>
+  <entity>
+  <id> 878.2 </id>
+    <mention>U.N.</mention>
+    <mention>United Nations</mention>
+    <link>enwiki:United%20Nations</link>
+  </entity>
+  <entity>
+  <id> 878.3 </id>
+    <mention>Haiti</mention>
+    <mention>Haitian</mention>
+    <mention>Haitians</mention>
+    <link>enwiki:Haiti</link>
+  </entity>
+  <entity>
+  <id> 878.4 </id>
+    <mention>New York</mention>
+    <link>enwiki:New%20York%20City</link>
+  </entity>
+  <entity>
+  <id> 878.5 </id>
+    <mention>Nepal</mention>
+    <link>enwiki:Nepal</link>
+  </entity>
+  <entity>
+  <id> 878.6 </id>
+    <mention>Port-au-Prince</mention>
+    <link>enwiki:Port-au-Prince</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 879 </num>
+<docid>5adb2f7230907f4006063656b8400742</docid>
+<url>https://www.washingtonpost.com/news/worldviews/wp/2017/02/14/youre-more-likely-to-die-from-air-pollution-in-india-than-china-study-says/</url>
+<entities>
+  <entity>
+  <id> 879.1 </id>
+    <mention>India</mention>
+    <mention>Indians</mention>
+    <link>enwiki:India</link>
+  </entity>
+  <entity>
+  <id> 879.2 </id>
+    <mention>China</mention>
+    <mention>Chinese</mention>
+    <link>enwiki:China</link>
+  </entity>
+  <entity>
+  <id> 879.3 </id>
+    <mention>Supreme Court</mention>
+    <link>enwiki:Supreme%20Court%20of%20India</link>
+  </entity>
+  <entity>
+  <id> 879.4 </id>
+    <mention>Kanpur</mention>
+    <link>enwiki:Kanpur</link>
+  </entity>
+  <entity>
+  <id> 879.5 </id>
+    <mention>Boston</mention>
+    <link>enwiki:Boston</link>
+  </entity>
+  <entity>
+  <id> 879.6 </id>
+    <mention>European</mention>
+    <link>enwiki:Europea</link>
+  </entity>
+  <entity>
+  <id> 879.7 </id>
+    <mention>Health Effects Institute</mention>
+    <link>enwiki:Health%20Effects%20Institute</link>
+  </entity>
+  <entity>
+  <id> 879.8 </id>
+    <mention>Bangladesh</mention>
+    <link>enwiki:Bangladesh</link>
+  </entity>
+  <entity>
+  <id> 879.9 </id>
+    <mention>Russia</mention>
+    <link>enwiki:Russia</link>
+  </entity>
+  <entity>
+  <id> 879.10 </id>
+    <mention>New Delhi</mention>
+    <link>enwiki:New%20Delhi</link>
+  </entity>
+  <entity>
+  <id> 879.11 </id>
+    <mention>World Health Organization</mention>
+    <link>enwiki:World%20Health%20Organization</link>
+  </entity>
+  <entity>
+  <id> 879.12 </id>
+    <mention>Varanasi</mention>
+    <link>enwiki:Varanasi</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 880 </num>
+<docid>58739d169d364163c1e81a8f081cdc9a</docid>
+<url>https://www.washingtonpost.com/news/answer-sheet/wp/2016/10/05/education-department-slammed-for-charter-school-oversight-by-its-own-watchdog-office/</url>
+<entities>
+  <entity>
+  <id> 880.1 </id>
+    <mention>Lily Eskelsen García</mention>
+    <link>enwiki:Lily%20Eskelsen%20García</link>
+  </entity>
+  <entity>
+  <id> 880.2 </id>
+    <mention>National Education Association</mention>
+    <mention>NEA</mention>
+    <link>enwiki:National%20Education%20Association</link>
+  </entity>
+  <entity>
+  <id> 880.3 </id>
+    <mention>Florida</mention>
+    <link>enwiki:Florida</link>
+  </entity>
+  <entity>
+  <id> 880.4 </id>
+    <mention>California</mention>
+    <link>enwiki:California</link>
+  </entity>
+  <entity>
+  <id> 880.5 </id>
+    <mention>Education Department</mention>
+    <link>enwiki:United%20States%20Department%20of%20Education</link>
+  </entity>
+  <entity>
+  <id> 880.6 </id>
+    <mention>Denver School of Science and Technology</mention>
+    <mention>DSST</mention>
+    <link>enwiki:DSST%20Public%20Schools</link>
+  </entity>
+  <entity>
+  <id> 880.7 </id>
+    <mention>Louisiana</mention>
+    <link>enwiki:Louisiana</link>
+  </entity>
+  <entity>
+  <id> 880.8 </id>
+    <mention>National Alliance for Public Charter Schools</mention>
+    <link>enwiki:National%20Alliance%20for%20Public%20Charter%20Schools</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 881 </num>
+<docid>1342bcb6-ec45-11e5-a6f3-21ccdbc5f74e</docid>
+<url>https://www.washingtonpost.com/opinions/free-tuition-has-made-a-remarkable-impact-on-the-community-college-i-lead/2016/03/25/1342bcb6-ec45-11e5-a6f3-21ccdbc5f74e_story.html</url>
+<entities>
+  <entity>
+  <id> 881.1 </id>
+    <mention>Hillary Clinton</mention>
+    <link>enwiki:Hillary%20Clinton</link>
+  </entity>
+  <entity>
+  <id> 881.2 </id>
+    <mention>Williams County</mention>
+    <link>enwiki:Williams%20County,%20North%20Dakota</link>
+  </entity>
+  <entity>
+  <id> 881.3 </id>
+    <mention>Republicans</mention>
+    <link>enwiki:Republican%20Party%20(United%20States)</link>
+  </entity>
+  <entity>
+  <id> 881.4 </id>
+    <mention>Williston</mention>
+    <link>enwiki:Williston,%20North%20Dakota</link>
+  </entity>
+  <entity>
+  <id> 881.5 </id>
+    <mention>South Dakota</mention>
+    <link>enwiki:South%20Dakota</link>
+  </entity>
+  <entity>
+  <id> 881.6 </id>
+    <mention>Williston State</mention>
+    <mention>Williston State College</mention>
+    <link>enwiki:Williston%20State%20College</link>
+  </entity>
+  <entity>
+  <id> 881.7 </id>
+    <mention>North Dakota</mention>
+    <link>enwiki:North%20Dakota</link>
+  </entity>
+  <entity>
+  <id> 881.8 </id>
+    <mention>Williston Basin</mention>
+    <link>enwiki:Williston%20Basin</link>
+  </entity>
+  <entity>
+  <id> 881.9 </id>
+    <mention>Tennessee</mention>
+    <link>enwiki:Tennessee</link>
+  </entity>
+  <entity>
+  <id> 881.10 </id>
+    <mention>Americans</mention>
+    <mention>U.S.</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 881.11 </id>
+    <mention>California</mention>
+    <link>enwiki:California</link>
+  </entity>
+  <entity>
+  <id> 881.12 </id>
+    <mention>Minnesota</mention>
+    <link>enwiki:Minnesota</link>
+  </entity>
+  <entity>
+  <id> 881.13 </id>
+    <mention>Ted Cruz</mention>
+    <link>enwiki:Ted%20Cruz</link>
+  </entity>
+  <entity>
+  <id> 881.14 </id>
+    <mention>Bernie Sanders</mention>
+    <link>enwiki:Bernie%20Sanders</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 882 </num>
+<docid>74ca2f03320df21995165b6bb9bb4ddb</docid>
+<url>https://www.washingtonpost.com/news/innovations/wp/2016/10/25/future-medical-breakthroughs-may-come-from-an-unexpected-industry/</url>
+<entities>
+  <entity>
+  <id> 882.1 </id>
+    <mention>Priscilla Chan</mention>
+    <link>enwiki:Priscilla%20Chan</link>
+  </entity>
+  <entity>
+  <id> 882.2 </id>
+    <mention>Google</mention>
+    <link>enwiki:Google</link>
+  </entity>
+  <entity>
+  <id> 882.3 </id>
+    <mention>Ekso Bionics</mention>
+    <link>enwiki:Ekso%20Bionics</link>
+  </entity>
+  <entity>
+  <id> 882.4 </id>
+    <mention>Sean Parker</mention>
+    <link>enwiki:Sean%20Parker</link>
+  </entity>
+  <entity>
+  <id> 882.5 </id>
+    <mention>Silicon</mention>
+    <link>enwiki:Silicon%20Valley</link>
+  </entity>
+  <entity>
+  <id> 882.6 </id>
+    <mention>IBM</mention>
+    <link>enwiki:IBM</link>
+  </entity>
+  <entity>
+  <id> 882.7 </id>
+    <mention>Chinese</mention>
+    <link>enwiki:China</link>
+  </entity>
+  <entity>
+  <id> 882.8 </id>
+    <mention>Mark Zuckerberg</mention>
+    <link>enwiki:Mark%20Zuckerberg</link>
+  </entity>
+  <entity>
+  <id> 882.9 </id>
+    <mention>Facebook</mention>
+    <link>enwiki:Facebook</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 883 </num>
+<docid>aaf444787011938dc645bdc1185a0716</docid>
+<url>https://www.washingtonpost.com/news/energy-environment/wp/2016/04/27/why-solar-powered-planes-are-still-a-long-way-from-carrying-passengers/</url>
+<entities>
+  <entity>
+  <id> 883.1 </id>
+    <mention>Southwest Airlines</mention>
+    <link>enwiki:Southwest%20Airlines</link>
+  </entity>
+  <entity>
+  <id> 883.2 </id>
+    <mention>United Airlines</mention>
+    <link>enwiki:United%20Airlines</link>
+  </entity>
+  <entity>
+  <id> 883.3 </id>
+    <mention>UN</mention>
+    <link>enwiki:United%20Nations</link>
+  </entity>
+  <entity>
+  <id> 883.4 </id>
+    <mention>Bertrand Piccard</mention>
+    <mention>Piccard</mention>
+    <link>enwiki:Bertrand%20Piccard</link>
+  </entity>
+  <entity>
+  <id> 883.5 </id>
+    <mention>Moffett Airfield</mention>
+    <link>enwiki:Moffett%20Federal%20Airfield</link>
+  </entity>
+  <entity>
+  <id> 883.6 </id>
+    <mention>Abu Dhabi</mention>
+    <link>enwiki:Abu%20Dhabi</link>
+  </entity>
+  <entity>
+  <id> 883.7 </id>
+    <mention>American</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 883.8 </id>
+    <mention>ICAO</mention>
+    <mention>International Civil Aviation Organization</mention>
+    <link>enwiki:International%20Civil%20Aviation%20Organization</link>
+  </entity>
+  <entity>
+  <id> 883.9 </id>
+    <mention>University of Toronto's Institute for Aerospace Studies</mention>
+    <link>enwiki:University%20of%20Toronto%20Institute%20for%20Aerospace%20Studies</link>
+  </entity>
+  <entity>
+  <id> 883.10 </id>
+    <mention>Swiss</mention>
+    <link>enwiki:Switzerland</link>
+  </entity>
+  <entity>
+  <id> 883.11 </id>
+    <mention>NASA</mention>
+    <link>enwiki:NASA</link>
+  </entity>
+  <entity>
+  <id> 883.12 </id>
+    <mention>San Francisco</mention>
+    <link>enwiki:San%20Francisco</link>
+  </entity>
+  <entity>
+  <id> 883.13 </id>
+    <mention>Pacific Ocean</mention>
+    <mention>Pacific</mention>
+    <link>enwiki:Pacific%20Ocean</link>
+  </entity>
+  <entity>
+  <id> 883.14 </id>
+    <mention>California</mention>
+    <link>enwiki:California</link>
+  </entity>
+  <entity>
+  <id> 883.15 </id>
+    <mention>André Borschberg</mention>
+    <link>enwiki:André%20Borschberg</link>
+  </entity>
+  <entity>
+  <id> 883.16 </id>
+    <mention>Los Angeles</mention>
+    <link>enwiki:Los%20Angeles</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 884 </num>
+<docid>681e77ce-dffd-11e5-9c36-e1902f6b6571</docid>
+<url>https://www.washingtonpost.com/local/public-safety/dc-crime-lab-restarts-some-dna-testing-after-shutdown-cast-doubts-over-analysis/2016/03/02/681e77ce-dffd-11e5-9c36-e1902f6b6571_story.html</url>
+<entities>
+  <entity>
+  <id> 884.1 </id>
+    <mention>D.C. Council</mention>
+    <link>enwiki:Council%20of%20the%20District%20of%20Columbia</link>
+  </entity>
+  <entity>
+  <id> 884.2 </id>
+    <mention>Channing D. Phillips</mention>
+    <mention>Phillips</mention>
+    <link>enwiki:Channing%20D.%20Phillips</link>
+  </entity>
+  <entity>
+  <id> 884.3 </id>
+    <mention>CIA</mention>
+    <link>enwiki:Central%20Intelligence%20Agency</link>
+  </entity>
+  <entity>
+  <id> 884.4 </id>
+    <mention>D.C.</mention>
+    <mention>District</mention>
+    <link>enwiki:Washington,%20D.C.</link>
+  </entity>
+  <entity>
+  <id> 884.5 </id>
+    <mention>FBI</mention>
+    <link>enwiki:Federal%20Bureau%20of%20Investigation</link>
+  </entity>
+  <entity>
+  <id> 884.6 </id>
+    <mention>U.S.</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 884.7 </id>
+    <mention>Muriel E. Bowser</mention>
+    <link>enwiki:Muriel%20Bowser</link>
+  </entity>
+  <entity>
+  <id> 884.8 </id>
+    <mention>ANSI-ASQ National Accreditation Board</mention>
+    <link>enwiki:ANAB</link>
+  </entity>
+</entities>
+</top>
+
+<top>
+<num> Number: 885 </num>
+<docid>5ae44bfd66a49bcad7b55b29b55d63b6</docid>
+<url>https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/07/14/sun-erupts-to-mark-another-bastille-day-aurora-possible-in-new-england-sunday-night/</url>
+<entities>
+  <entity>
+  <id> 885.1 </id>
+    <mention>United States</mention>
+    <link>enwiki:United%20States</link>
+  </entity>
+  <entity>
+  <id> 885.2 </id>
+    <mention>Bastille</mention>
+    <link>enwiki:Bastille</link>
+  </entity>
+  <entity>
+  <id> 885.3 </id>
+    <mention>NOAA</mention>
+    <mention>National Oceanic and Atmospheric Administration</mention>
+    <link>enwiki:National%20Oceanic%20and%20Atmospheric%20Administration</link>
+  </entity>
+</entities>
+</top>
+

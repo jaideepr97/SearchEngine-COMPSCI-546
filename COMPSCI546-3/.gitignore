@@ -1,0 +1,6 @@
+ltr/*.out
+ltr/*.train
+ltr/*.test
+__pycache__
+*.pyc
+extracted_features.jsonl
