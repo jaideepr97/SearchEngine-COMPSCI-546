@@ -32,54 +32,35 @@ public class ExecutePriorQueries {
     public static int mu = 1500;
 
     public static void main(String[] args) throws IOException {
+        String priorFileName = args[0];
+        String outputFileName = args[1];
         index = new InvertedIndex();
         index.load(false);
         inferenceNetwork = new InferenceNetwork();
         model = new Dirichlet(index, mu);
         ExecutePriorQueries epq = new ExecutePriorQueries();
-        epq.executeUniformPrior();
-        epq.executeRandomPrior();
+        epq.executePrior(priorFileName, outputFileName);
     }
 
-    public void executeUniformPrior() throws IOException {
+    public void executePrior(String priorFileName, String outputFileName) throws IOException {
         ExecutePriorQueries epq = new ExecutePriorQueries();
         runId = "jrao-uniform-and-dir-" + mu;
         int queryIndex = 0;
-        String outputFilePath = destination + "uniform.trecrun";
+        String outputFilePath = destination + outputFileName;
         BufferedReader reader = new BufferedReader(new FileReader(inputFilePath));
         FileWriter myWriter = new FileWriter(outputFilePath);
         String query;
         while((query = reader.readLine()) != null) {
             queryIndex++;
             List<QueryNode> children = epq.createTermNodes(query, index, model);
-            children.add(new PriorNode(PriorNode.priorType.Uniform));
+
+            children.add(new PriorNode(priorFileName));
             QueryNode q = new And(children);
             List<Map.Entry<Integer, Double>> rankedList = inferenceNetwork.runQuery(q, queueSize);
             String qId = "Q" + queryIndex;
             epq.writeResultsToFile(rankedList, index, runId, qId, myWriter);
         }
         myWriter.close();
-    }
-
-    public void executeRandomPrior() throws IOException {
-        ExecutePriorQueries epq = new ExecutePriorQueries();
-        runId = "jrao-random-and-dir-" + mu;
-        int queryIndex = 0;
-        String outputFilePath = destination + "random.trecrun";
-        BufferedReader reader = new BufferedReader(new FileReader(inputFilePath));
-        FileWriter myWriter = new FileWriter(outputFilePath);
-        String query;
-        while((query = reader.readLine()) != null) {
-            queryIndex++;
-            List<QueryNode> children = epq.createTermNodes(query, index, model);
-            children.add(new PriorNode(PriorNode.priorType.Random));
-            QueryNode q = new And(children);
-            List<Map.Entry<Integer, Double>> rankedList = inferenceNetwork.runQuery(q, queueSize);
-            String qId = "Q" + queryIndex;
-            epq.writeResultsToFile(rankedList, index, runId, qId, myWriter);
-        }
-        myWriter.close();
-
     }
 
     public List<QueryNode> createTermNodes(String query, Index index, RetrievalModel model) {

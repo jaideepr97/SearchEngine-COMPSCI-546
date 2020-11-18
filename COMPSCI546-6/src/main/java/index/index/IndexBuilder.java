@@ -29,8 +29,6 @@ public class IndexBuilder {
         playIdMap = new HashMap<Integer, String>();
         invertedLists = new HashMap<String, PostingList>();
         docLengths = new HashMap<Integer, Integer>();
-        uniformPriors = new HashMap<>();
-        randomPriors = new HashMap<>();
 
     }
     private void parseFile(String filename) {
@@ -39,7 +37,6 @@ public class IndexBuilder {
             // fetch the scenes
             JSONObject jsonObject = (JSONObject) parser.parse(new FileReader(filename));
             JSONArray scenes = (JSONArray) jsonObject.get("corpus");
-            Random rand = new Random();
             // iterate over the scenes
             for (int idx = 0; idx < scenes.size(); idx++) {
                 JSONObject scene = (JSONObject) scenes.get(idx);
@@ -62,9 +59,6 @@ public class IndexBuilder {
                     invertedLists.putIfAbsent(word, new PostingList());
                     invertedLists.get(word).add(docId, pos+1);
                 }
-
-                uniformPriors.put(docId, 1.0/ scenes.size());
-                randomPriors.put(docId, rand.nextDouble());
 
             }
         } catch (ParseException e) {
@@ -126,14 +120,6 @@ public class IndexBuilder {
         }
     }
 
-    public void savePrior(String filename, Map<Integer, Double> priorMap) throws IOException {
-        RandomAccessFile priorWriter = new RandomAccessFile(filename, "rw");
-        for (Map.Entry<Integer, Double> entry : priorMap.entrySet()) {
-            priorWriter.writeDouble(entry.getValue());
-        }
-        priorWriter.close();
-    }
-
     public void buildIndex(String sourcefile, boolean compress) throws IOException {
         this.compression = compress ? Compressors.VBYTE : Compressors.EMPTY;
         String invFile = compress ? "invListCompressed" : "invList";
@@ -143,8 +129,6 @@ public class IndexBuilder {
         saveStringMap("playIds.txt", playIdMap);
         saveDocLengths("docLength.txt");
         saveInvertedLists("lookup.txt", invFile);
-        savePrior("uniform.prior", uniformPriors);
-        savePrior("random.prior", randomPriors);
     }
 
     public static void main(String[] args) throws IOException {

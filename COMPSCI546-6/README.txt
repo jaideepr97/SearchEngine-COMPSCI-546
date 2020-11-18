@@ -10,6 +10,8 @@ Most IDEs should let you do this as well
 Steps to run the project :-
 
 1. Place the shakespeare-scenes.json file within ..java/index/index and Run IndexBuilder.java to generate the index
-2. Create a file called Queries.txt with the query and place it in ..java/retrieval/apps
-3. Run ExecutePriorQueries.java to perform retrieval on the query files with both priors 
+2. Run CreatePriors.java to create "uniform.prior" and "random.prior"
+3. Create a file called Queries.txt with the query and place it in ..java/retrieval/apps
+4. Run ExecutePriorQueries.java to perform retrieval on the query files with both priors
+5. Provide args[0] = name of file with prior values, args[1] = name of output file to ExecutePriorQueries.java
 
